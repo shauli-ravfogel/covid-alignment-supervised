@@ -1,0 +1,67 @@
+arg1:virus $infection $causes a arg2:condition
+infected arg1:patients $usually $develop arg2:[entity]respiratory illness
+a arg1:subset of patients $progress to arg2:hemorrhagic fever
+people with arg1:[e]asthma are $susceptible to arg2:[e]asthma
+arg1:[e]paracetamol is $not useful for treating arg2:[e]asthma
+arg1:something $is $not $effective against arg2:something
+arg1:[e]stroke is a $complication of :[e]COVID-19 arg2:infection
+arg1:[e]stroke is a $complication of arg2:flu :vaccination
+the recommended arg1:[w]quarantine period is arg2:14 :[w]days
+arg1:[e]COVID-19 $infects arg2:cells
+arg1:[e]COVID-19 activates the arg2:ATP $receptor
+low blood oxygen arg1:levels are a $risk factor in arg2:[e]COVID-19 infection
+arg1:[word]Age is another risk factor for both morbidity and mortality in arg2:COVID-19 patients
+arg1:[w]virus $originated in arg2:[e]bats
+arg1:[w]virus $evolved $from arg2:something
+arg1:something virus $evolved $from arg2:something
+arg1:[w]virus $transmitted $from arg2:something
+arg1:something $transmitted $from arg2:something
+something can be $[l]transmitted $from arg1:something $to arg2:something
+arg1:[e]bats are a $reservoir of arg2:[e]something
+arg1:[e]bats $[l]shed arg2:something
+arg1:SCD $[l]genotypes share high $risk for arg2:something 
+broadly neutralizing arg1:[w]antibodies $against arg2:the conserved stem region of HA can be elicited
+the $mode of infection of arg1:virus is arg2:something
+arg1:something is a $vector $of $transmission for arg2:something
+arg1:something is a $countermeasure against arg2:something
+arg1:something $contributes to the $spread of arg2:something
+arg1:something $eases the $spread of arg2:something
+arg1:something $prevents the $spread of arg2:something
+arg1:[e]paracetamol $treats arg2:[e]asthma.
+arg1:[e]paracetamol $is $a $treatment for arg2:[e]asthma.
+arg1:something is $genetically $related to arg2:something
+arg1:the virus interacts with the arg2:[w]immune system
+arg1:something causes $gene $expression related to arg2:immune system
+arg1:something $supresses arg2:something
+arg1:something $encourages the $production of arg2:something
+the $symptoms of arg1:something are arg2:something
+arg1:something $virus mainly $affects arg2:something
+arg1:something $is a $first $symptom $of arg2:something
+arg1:something $are $susceptible $to arg2:something
+arg1:something can $improve $survival in arg2:something
+arg1:something can $increase $survival in arg2:something
+$treatment for arg1:something should $focus on arg2:something
+the $duration of arg1:something is arg2:something
+arg1:infected $patients are $contagious $for arg2:something
+arg1:infected $patients are $symptomatic $for arg2:something $days
+arg1:something $causes $death $within arg2:something
+arg1:something induces $immunity $against arg2:something
+arg1:something $spreads $through arg2:something
+arg1:something $virus affects the arg2:something $ligand
+arg1:something $virus affects the arg2:something $system
+arg1:something affects $the $replication $of arg2:something $virus
+arg1:something affects $the $spread $of arg2:something $virus
+arg1:something $does $not $transmit to arg2:someone
+arg1:something $was first $isolated $from arg2:soil
+arg1:something $was first $detected $in arg2:soil
+arg1:asthma $is $not $a $risk $factor for arg2:asthma
+arg1:something $blood $levels are $elevated in arg2:something
+arg1:something $blood $levels are $reduced in arg2:something
+arg1:something is $found $in arg2:something $tissue
+$symptoms $of arg1:something $appear within arg2:something $days
+$symptoms $of arg1:something $last for arg2:something days
+arg1:[e]COVID-19 $fatality $rates are arg2:something
+arg1:[e]COVID-19 $death $rates are arg2:something
+arg1:something $virus affects arg2:something $genes
+$outbreak $of arg2:[e]MERS-CoV $occurred $in arg1:[e]France
+arg1:something $can $be $detected $with arg2:something
