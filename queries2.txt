@@ -1,345 +1,345 @@
-arg1:virus $infection $causes a arg2:condition	1
-arg1:virus $infection $results $in arg2:condition	1
-arg2:condition $is $the $result of arg1:virus $infection	1 
-arg2:condition $is $caused $by arg1:virus $infection	1
-as a result of arg1:virus $infection, arg2:condition $can $develop	1
-infected arg1:patients $usually $develop arg2:[entity]respiratory illness	2
-infected arg1:patients $show $signs $of arg2:[entity]respiratory illness	2
-arg2:[entity]respiratory illness $is $observed in infected arg1:patients	2
-a arg1:subset of patients $progress to arg2:hemorrhagic fever	3
-in the arg1:eldery, it results in arg2:hemorrhagic fever	3
-a arg1:subset of patients $show $signs $of arg2:hemorrhagic fever	3
-people with arg1:[e]asthma are $susceptible to arg2:[e]asthma	4
-arg1:something $[l]are $susceptible $to arg2:something	4
-arg2:[e]asthma :is $more $common in people with arg1:[e]asthma	4
-arg2:[e]asthma :is $more $common in arg1:[e]asthma patients	4
-arg2:[e]asthma :is a common $comorbidity in people with arg1:[e]asthma	4
-arg2:[e]asthma :is a common $comorbidity in arg1:[e]asthma patients	4
-arg1:asthmatic $patients are $prone $to arg2:[e]asthma disease	4
-arg1:low blood oxygen levels are a $risk factor in arg2:[e]COVID-19 infection	5
-arg1:low blood oxygen levels poses $risk in arg2:[e]COVID-19 infection	5
-arg1:[word]age is another $risk $factor for both morbidity and mortality in arg2:COVID-19 patients	5
-arg1:[word]obesity is another $risk $factor for both morbidity and mortality in arg2:COVID-19 patients	5
-arg1:low blood oxygen levels are a $risk factor in arg2:[e]asthma	5
-arg1:something is identified as a $risk $factor for arg2:[e]asthma	5
-arg1:low blood oxygen levels poses $risk in arg2:[e]asthma	5
-arg1:[word]age is another $risk $factor for both morbidity and mortality in arg2:[e]asthma	5
-arg1:[word]Obesity is another $risk $factor for both morbidity and mortality in arg2:[e]asthma patients	5
-arg1:[e]paracetamol is $not useful for treating arg2:[e]asthma	6
-arg1:[e]paracetamol is $not a $useful treatment for arg2:[e]asthma	6
-arg1:[e]paracetamol is $not $effective in treating arg2:[e]asthma	6
-arg1:[e]paracetamol $is $not $effective against arg2:[e]asthma	6
-arg1:[e]paracetamol $is $not $recommended against arg2:[e]asthma	6
-arg2:[e]asthma $should $not $be $treated with arg1:something	6
-arg1:something $is $contraindicated in patients with arg2:[e]asthme	6 
-arg1:something $is $contraindicated in arg2:[e]asthme	6 
-arg1:[e]paracetamol $should $not $be $used to $treat arg2:[e]asthma	6
-arg1:[e]stroke is a $complication of arg2:[e]COVID-19 infection	7
-arg1:[e]stroke is a $complication of arg2:flu :vaccination	7
-among the $complications trigerred $by arg2:[e]asthma is arg1:[e]stroke	7
-the $complications of arg2:flu $infection include arg1:[e]stroke	7
-the recommended $quarantine period in arg1:[e]asthma infection is arg2:14 :[w]days	8
-patients diagnosed with arg1:[e]asthma should be $quarantined for arg2:14 :[w]days	8 
-arg1:[e]asthma patients should be $quarantined for arg2:14 :[w]days	8 
-arg1:[e]COVID-19 patients should be $quarantined for arg2:14 :[w]days	8 
-arg1:[e]COVID-19 $infects arg2:lung $cells	9
-arg2:lung $cells are $infected by arg1:[e]COVID-19	9
-arg1:influenza $virus $[l]infects arg2:lung $cells	9
-arg1:influenza $virus $[l]invades to arg2:lung $cells	9
-arg1:influenza $virus $[l]enters the arg2:lung $cells	9
-arg1:[e]COVID-19 $infects arg2:lung $tissue	9
-arg2:lung $tissue is $infected by arg1:[e]COVID-19	9
-arg1:influenza $virus $[l]infects arg2:lung $tissue	9
-arg1:influenza $virus $[l]invades to arg2:lung $tissue	9
-arg1:influenza $virus $[l]enters the arg2:lung $tissue	9
-arg1:something $[l]activates the arg2:ATP $receptor	10
-arg1:something $[l]binds $to the arg2:ATP $receptor	10
-arg1:[e]COVID-19 activates the arg2:ATP $receptor	10
-arg2:ATP $receptor is activated by arg1:[e]COVID-19	10
-arg2:ATP $receptor is $[l]activated $by arg1:something	10
-The arg1:flu $virus $originated in arg2:[e]bats	11
-arg2:[e]bats are the $hosts of the arg1:flu $virus	11
-arg2:[e]bats are a $vector $of $transmission for arg1:something	11
-arg1:flu $virus $transmitted $from arg2:[e]bats	11
-arg1:something $transmitted $from arg2:something	11
-$transmission $of arg1:something $from arg2:[e]bats	11
-arg2:[e]bats are a $reservoir $of arg1:[e]something	11
-arg2:[e]bats $[l]shed arg1:something $virus	11
-arg2:[e]bats $[l]shed arg1:[e]COVID-19	11
-arg1:flu $virus $evolved $from arg2:something	12
-arg1:flu $virus $diverged $from arg2:something	12
-arg1:flu $virus $emerged $from arg2:something	12
-The $mechanism $of $action of arg1:paracetamol is arg2:ligand activation	13
-arg1:[e]paracetamol $affects arg2:ligand activation.	13
-arg1:[e]paracetamol $works $by arg2:ligand activation	13
-arg2:ligand activation is the $mechanism $of $action of arg1:[e]paracetamol	13
-arg1:[e]paracetamol $exerts its influnce $by arg2:ligand activation	13
-something can be $[l]transmitted $from arg1:something $to arg2:something	14
-arg1:someone can $[l]transmit something $to arg2:someone	14
-:[w]COVID-19 $crosses from arg1:someone $to arg2:someone	14
-something, $[l]transmitted $to arg2:someone $from arg1:someone	14
-:[w]COVID-19 is $transmitted from arg1:someone $to arg2:someone	14
-$transmission $of something $from arg1:[e]bats $to arg2:someone	14
-arg1:SCD $[l]genotypes share high $risk for arg2:something	15
-arg1:SCD $[l]genotypes is a $risk factor for arg2:something	15
-arg1:SCD $[l]genotypes provide $protection against arg2:something	15
-arg1:SCD $[l]genotypes provide $immunity against arg2:something	15
-arg2:something is $more $common in arg1:SCD $[l]genotypes	15
-arg1:SCD $[l]polymorphism share high $risk for arg2:something	15
-arg1:SCD $[l]polymorphism provide $protection against arg2:something	15
-arg1:SCD $[l]polymorphism provide $immunity against arg2:something	15
-arg2:something is $more $common in arg1:SCD $[l]polymorphism	15
-arg1:SCD $[l]polymorphism is a $risk factor for arg2:something	15
-arg1:white $cells $[l]attack the arg2:flu $virus	16
-arg1:white $cells $[l]prevent the arg2:flu $infection	16
-arg1:white $cells $[l]provide $protection against arg2:flu $virus	16
-arg1:white $cells $[l]protect against arg2:flu $virus	16
-arg1:white $cells $[l]provide $protection against arg2:flu $infection	16
-arg1:white $cells $[l]protect against arg2:flu $infection	16
-arg1:white $cells $[l]destroy the arg2:flu $virus	 16
-arg2:flu $virus is $[l]attacked by arg1:white $cells	16
-arg2:flu $virus is $[l]destroyed by arg1:white $cells	16
-arg1:something is a $countermeasure against arg2:something	17
-arg1:something $is $useful $against arg2:something	17
-arg1:something $[l]contributes to the $spread of arg2:something infection	18
-arg1:something $[l]eases the $spread of arg2:something infection	18
-arg1:something $[l]prevents the $spread of arg2:something infection	18
-arg1:something $[l]helps the $spread of arg2:something infection	18
-arg1:something will $[l]help arg2:something infection $to $spread	18
-arg1:something $[l]helps arg2:something infection $to $spread	18
-arg1:[e]paracetamol $treats arg2:[e]asthma	19
-arg1:[e]paracetamol $is $useful $against arg2:[e]asthma	19
-arg1:[e]paracetamol, a $treatment for arg2:[e]asthma	19
-arg1:[e]paracetamol $is $a $treatment for arg2:[e]asthma.	 19
-arg2:[e]asthma $should $be $treated with arg1:[e]paracetamol	19
-arg1:[e]paracetamol is used $to $treat arg2:[e]asthma	19
-arg2:[e]asthma $is $treated with arg1:[e]paracetamol	19
-arg1:something is $genetically $related to arg2:something	 20
-arg1:something :and arg2:something are $genetically $related	20
-arg1:something :and arg2:something share $a $common $origin	20
-arg1:something :and arg2:something share $a $common $fancestry	20
-arg1:something :and arg2:something share $a $common $ancestor	20
-arg1:flu $virus interacts with the arg2:immune $system	21
-arg1:flu $infection influences the arg2:immune $system	21
-arg1:something $blood $levels are $[l]elevated in arg2:something	22
-arg1:something $blood $levels are $[l]reduced in arg2:something	22
-arg1:something $blood $levels are an $indication of arg2:something	22
-$high $blood arg1:something is an $indication of arg2:something	22
-$high $blood arg1:something is a $sign of arg2:something	22
-$low $blood arg1:something is an $indication of arg2:something	22
-low $blood arg1:something is a $sign of arg2:something	22
-the $symptoms of arg1:[e]asthma are arg2:[e]stroke	23
-arg1:[e]asthma $symptoms $such $as arg2:[e]stroke	23
-arg2:[e]stroke, $a $symptom $of arg1:[e]asthma	23
-the $signs of arg1:[e]asthma are arg2:[e]stroke	23
-the $symptoms of arg1:[e]asthma $include arg2:something	23
-the $signs of arg1:[e]asthma $include arg2:something	23
-arg2:something is $a $symptom $of arg1:[e]asthma	23
-arg2:something is $a $sign $of arg1:[e]asthma	23
-arg1:[e]asthma is $manifested by arg2:something	23
-people $infected $with arg1:something $[l]experience arg2:something	23
-people $infected $with arg1:something $[l]show $signs $of arg2:something	23
-the $clinical $manifestations of arg1:[e]asthma include arg2:something	23
-arg2:something is a $symptom of arg1:[e]asthma	23
-arg1:something $encourages the $production of arg2:something	24
-arg1:something $triggers the $production of arg2:something	24
-arg1:something $triggers the body $to $produce arg2:something	24
-arg1:something can $improve $survival in arg2:something	25
-arg1:something can $increase $survival in arg2:something	25
-arg1:something can $decrease $death rates in arg2:something	25
-arg1:something can $prevent $death in arg2:something	25
-$treatment for arg1:something should $focus on arg2:something	26
-arg2:something is a $main $part in arg1:something $treatment	26
-arg1:something $causes $death $within arg2:something	27
-arg1:something $induced $death $within arg2:something	27
-animals $infected with arg1:something $died $within arg2:something	27
-in arg1:something $infection $death $occurred $after arg2:something	27
-the $duration of arg1:something $infection is arg2:something	28
-arg1:something $infection $lasts arg2:10 $days	28
-animals $infected with arg1:something $[l]recover after arg2:10 days	28
-arg1:something $is a $first $symptom $of arg2:something	29
-arg1:something $is a $first $sign $of arg2:something	29
-the $first $symptom $of arg2:something $[l]is arg1:something	29
-the $first $sign $of arg2:something $[l]is arg1:something	29
-arg2:something $is $initially $manifested with arg1:something	29
-arg2:something $[l]is the $initial $manifestation of arg1:something	29
-arg1:[e]asthma $patients are $contagious $for arg2:10 days	30
-arg1:[e]asthma $patients $remain $contagious $for arg2:10 days	30
-patients infected with arg1:[e]COVID-19 are $contagious for arg2:10 days	30
-arg1:[e]asthma $patients are $infectious $for arg2:10 days	30
-arg1:[e]asthma $patients $remain $infectious $for arg2:10 days	30
-patients infected with arg1:[e]COVID-19 are $infectious for arg2:10 days	30
-arg1:asthma patients are $symptomatic $for arg2:something $days	31
-arg1:[e]COVID-19 $patients remain $symptomatic $for arg2:something $days	31
-arg1:[e]COVID-19 $patients $show $symptoms $for arg2:something $days	31
-arg1:[e]asthma $patients remain $symptomatic $for arg2:something $days	31
-arg1:[e]asthma $patients $show $symptoms $for arg2:something $days	31
-the $symptoms of arg1:[e]asthma $last for arg2:10 days	31
-arg1:[e]asthma $symptoms $last for arg2:10 days	31
-arg1:something $does $not $transmit to arg2:someone	32
-arg1:something $infection $does $not $transmit to arg2:someone	32
-arg1:something $virus $does $not $transmit to arg2:someone	32
-arg1:something $virus $does $not $infect arg2:someone	32
-arg2:someone $[l]is $not $affected from arg1:something $infection	32
-arg1:something $virus $does $not $affect arg2:someone	32
-arg2:someone $[l]are $immune $to arg1:something $infection	32
-arg1:something $virus affects the arg2:something $ligand	33
-arg1:something $virus affects the arg2:something $system	33
-arg1:something $infection affects the arg2:something $ligand	33
-arg1:something $[l]infection affects the arg2:something $system	33
-arg1:something $was first $isolated $from arg2:soil	34
-arg1:something $was first $detected $in arg2:soil	34
-arg1:something $was first $documented $in arg2:soil	34
-arg1:something $spreads $through arg2:something	35
-arg1:something $spreads $by arg2:something	35
-arg2:something is a $medium of $transmission of arg1:something	35
-arg1:something $virus can spread through arg2:[w]droplets	35
-the $modes $of $transmission of arg1:something $virus $include arg2:[w]droplets	35
-the $modes $of $transmission of arg1:something $virus $include arg2:[w]airborne particles	35
-arg1:[e]COVID-19 can spread through arg2:[w]droplets	35
-arg1:[e]COVID-19 can spread through arg2:[w]contact	35
-arg1:[e]COVID-19 can spread through arg2:[w]airborne particles	35
-the primary $[l]route $of arg1:[e]COVID-19 infection is arg2:something	35
-the primary $[l]route $of $transmission of arg1:[e]COVID-19 infection is arg2:something	35
-the primary $[l]route $of $infection of arg1:[e]COVID-19 is arg2:something	35
-the primary $[l]route $of arg1:something $infection is arg2:something	35
-the $modes $of $transmission of arg1:[e]COVID-19 $include arg2:[w]droplets	35
-arg2:[w]droplet $transmission of arg1:[e]COVID-19	35
-arg2:[w]droplet $transmission of arg1:flu $virus	35
-arg2:[w]airborne $transmission of arg1:[e]COVID-19	35
-arg2:[w]airborne $transmission of arg1:flu $virus	35
-the arg1:flu $virus is arg2:[w]airborne	35
-the arg1:[e]COVID-19 is arg2:[w]airborne	35
-arg1:asthma $is $not $a $risk $factor for arg2:asthma	36
-arg1:asthma $poses $no $risk for arg2:asthma	36
-arg1:asthma patients $are $not $suspectible to arg2:asthma	36
-arg1:[e]COVID-19 $fatality $rates are arg2:something	37
-arg1:[e]COVID-19 $death $rates are arg2:something	37
-arg1:[e]COVID-19 $causes $death in arg2:19% of the cases	37
-arg1:[e]COVID-19 $results $in $death in arg2:19% of the cases	37
-arg1:[e]asthma $death $rates are arg2:something	37
-arg1:[e]asthma $fatality $rates are arg2:something	37
-arg1:[e]asthma $causes $death in arg2:19% of the cases	37
-arg1:[e]asthma $results $in $death in arg2:19% of the cases	37
-the $enzyme arg1:A $[l]interacts with the $enzyme arg2:B	38
-the $enzyme arg1:A $[l]activates the $enzyme arg2:B	38
-the $enzyme arg1:A $[l]regulates the $enzyme arg2:B	38
-the $enzyme arg1:A $[l]inhibits the $enzyme arg2:B	38
-the $protein arg1:A $[l]interacts with the $protein arg2:B	38
-the $protein arg1:A $[l]activates the $protein arg2:B	38
-the $protein arg1:A $[l]regulates the $protein arg2:B	38
-the $protein arg1:A $[l]inhibits the $protein arg2:B	38
-$protein-protein $interaction between arg1:something :and arg2:something	38
-arg1:something $[l]inhibits the arg2:something $enzyme	39
-arg2:something $enzyme is $inhibited by arg1:something	39
-arg1:something $[l]inhibits the arg2:something $protein	39
-arg2:something $protein is $inhibited by arg1:something	39
-arg1:something $is an $inhibitor of arg2:something	39
-$outbreak $of arg2:[e]MERS-CoV $occurred $in arg1:[e]France	40
-arg2:[e]MERS-CoV $pandemic occurred $in arg1:[e]France	40
-arg2:[e]MERS-CoV $epidemic occurred $in arg1:[e]France	40
-$outbreak $of arg2:[e]asthma $occurred $in arg1:[e]France	40
-arg2:[e]asthma $pandemic occurred $in arg1:[e]France	40
-arg2:[e]asthma $epidemic occurred $in arg1:[e]France	40
-$outbreak of arg2:[e]asthma $in arg1:[e]France	40
-$outbreak of arg2:[e]MERS-CoV $in arg1:[e]France	40
-arg1:something $induces $immunity $against arg2:something	41
-arg1:something $triggers $immunity $against arg2:something	41
-$immunity against arg1:something can be achieved using arg2:something	41
-arg1:something $[l]is $a $pretreatment for arg2:something	42
-arg1:something $[l]is $a $prophylactic treatment for arg2:something	42
-arg1:something $[l]treatment is currently $under $research $for arg2:[e]asthma	43
-arg1:something is an $experimental $treatment $for arg2:[e]asthme	43
-arg1:something is $investigated $as $a $treatment $for arg2:[e]asthma	43
-arg1:something can be $detected $with arg2:microscope	44
-arg1:something can be $identified $with arg2:microscope	44
-arg1:something is $detected $with arg2:microscope	44
-arg1:something is $identified $with arg2:microscope	44
-arg1:something can be $detected $by arg2:microscope	44
-arg1:something can be $identified $by arg2:microscope	44
-arg2:HPLC $was $performed $to $identify arg1:something	44
-arg2:HPLC $was $performed $to $detect arg1:something	44
-arg1:something is $detected $by arg2:microscope	44
-arg1:something is $identified $by arg2:microscope	44
-arg2:microscope was $used to $detect arg1:something	44
-arg2:microscope was $used to $screen $for arg1:something	44
-arg1:something was $discovered $by arg2:someone	45
-arg1:something was first $described $by arg2:someone	45
-arg2:someone $first $described arg1:something	 45
-arg1:something was $named $by arg2:someone	45
-arg2:[e]John $discovered arg1:something	45
-arg1:flu $virus $[l]persists for arg2:10 days	46
-arg1:[e]COVID-19 $[l]persists for arg2:10 days	46
-arg1:[e]COVID-19's $persistence is arg2:10 days	46
-a study shows $persistence of arg1:flu $virus for arg2:10 days	46
-a study shows $persistence of arg1:[e]COVID-19 for arg2:10 days	46
-arg1:[e]COVID-19 $persists $on arg2:surfaces	47
-arg1:[e]COVID-19 $can $survive $on arg2:surfaces	47
-arg1:[e]COVID-19 $[l]remains $viable $on arg2:surfaces	47
-arg1:[e]COVID-19 $[l]can $last $on arg2:surfaces	47
-arg1:[e]COVID-19 $[l]remains $infectious $on arg2:surfaces	47
-arg1:flu $virus $persists $on arg2:surfaces	47
-arg1:flu $virus $can $survive $on arg2:surfaces	47
-arg1:flu $virus $[l]remains $viable $on arg2:surfaces	47
-arg1:flu $virus $[l]can $last $on arg2:surfaces	47
-arg1:flu $virus $[l]remains $infectious $on arg2:surfaces	47
-arg1:[e]COVID-19 $persists $on surfaces $for arg2:10 days	48
-arg1:[e]COVID-19 $can $survive $on surfaces $for arg2:10 days	48
-arg1:[e]COVID-19 $[l]remains $viable $on surfaces for arg2:10 days	48
-arg1:[e]COVID-19 $[l]can $last $on surfaces for arg2:10 days	48
-arg1:[e]COVID-19 $[l]remains $infectious $on surfaces for arg2:10 days	48
-arg1:flu $virus $persists $on surfaces for arg2:10 days	 48
-arg1:flu $virus $can $survive $on surfaces for arg2:10 days	48
-arg1:flu $virus $[l]remains $viable $on surfaces for arg2:10 days	48
-arg1:flu $virus $[l]can $last $on surfaces for arg2:10 days	 48
-arg1:flu $virus $[l]remains $infectious $on surfaces for arg2:10 days	48
-arg1:some arg2:[e]COVID-19 patients are $asymptomatic	49
-arg1:some arg2:[e]COVID-19 patients $show $no $symptoms	49
-arg1:some arg2:[e]COVID-19 patients $have $no $symptoms	49
-arg1:some arg2:[e]COVID-19 patients $[l]do $not $show $symptoms	49
-in arg1:10% of arg2:flu $infections the patients are $asymptomatic	49
-in arg1:10% of arg2:flu $infections the patients $show $no $symptoms	49
-in arg1:10% of arg2:flu $infections the patients $have $no $symptoms	49
-in arg1:10% of arg2:flu $infections the patients $[l]do $not $show $symptoms	49
-arg1:20% of arg2:flu $infections are $asymptomatic	49
-arg1:20 $percent of arg2:flu $infections are $asymptomatic	49
-arg1:20 $percent of people with arg2:flu $infections have $no $symptoms	49
-the $proportion of $asymptomatic arg2:[e]COVID-19 cases is arg1:10%	49 
-arg1:20% of people $infected $with arg2:something $[l]are $asymptomatic	49
-arg1:something $is $synthesized $from arg2:something	50
-arg1:something $is $a $derivative $of arg2:something	50
-arg1:something $is $a $by $product $of arg2:something $synthesis	50
-arg1:something $is $a $byproduct $of arg2:something $synthesis	50
-arg1:something is $manufactured $from arg2:something	50
-$formation of arg1:something $from arg2:something	50
-$synthesis of arg1:something $from arg2:something	50
-arg1:it $is $a arg2:purine $derivative	50
-the $conversion of arg2:something $to arg1:something	50
-arg1:something, a arg2:purine $derivative	50
-arg1:something, $synthesized $from arg2:something	50
-arg2:purine $derivative $such $as arg1:something	50
-the arg1:flu $[l]virus $[l]belongs $to $the $family $of arg2:something	51
-the arg1:[e]COVID-19 $[l]belongs $to $the $family $of arg2:something	51
-the arg1:[e]MERS-CoV $[l]belongs $to $the $family $of arg2:something	51
-the arg1:flu $bacteria $[l]belongs $to $the $family $of arg2:something	51
-the arg1:flu $virus $is $a $part $of $the $family $of arg2:something	51
-the arg1:[e]COVID-19 $is $a $part $of arg2:something $family	51
-the arg1:[e]MERS-CoV $is $a $part $of arg2:something $family	51
-the arg1:flu $bacteria $is $a $part $of arg2:something $family	51
-the arg1:[e]COVID-19 $is $a $part $of a $family of arg2:something	51
-the arg1:[e]MERS-CoV $is $a $part $of a $family $of arg2:something	51
-the arg1:flu $bacteria $is $a $part $of a $family $of arg2:something	51
-the arg1:flu $is $a $strain $of a arg2:something	51
-arg1:flu, $a $strain $of arg2:something	51
-arg1:something $is $a $parasite in arg2:bats	52
-arg1:something, $a $parasite in arg2:bats	52
-arg1:something $is $a $parasite $infecting arg2:bats	52
-arg1:something, $a $parasite $infecting arg2:bats	52
-arg1:something $is $a arg2:[e]bats $parasite	52
-arg1:something, $a arg2:[e]bats $parasite	52
-arg1:something $is $a $parasitic worm in arg2:bats	52
-arg1:something, $a $parasitic worm in arg2:bats	52
-arg1:something $is $a $parasitic worm $infecting arg2:bats	52
-arg1:something, $a $parasitic worm $infecting arg2:bats	52
-arg1:something $is $a $parasite $living in the lung of arg2:[e]bats	52
-arg1:something, $a $parasite $living in the lung of arg2:[e]bats	52
+<>arg1:virus $infection $causes a <>arg2:condition	1
+<>arg1:virus $infection $results $in <>arg2:condition	1
+<>arg2:condition $is $the $result of <>arg1:virus $infection	1 
+<>arg2:condition $is $caused $by <>arg1:virus $infection	1
+as a result of <>arg1:virus $infection, <>arg2:condition $can $develop	1
+infected <>arg1:patients $usually $develop <>arg2:[entity]respiratory illness	2
+infected <>arg1:patients $show $signs $of <>arg2:[entity]respiratory illness	2
+<>arg2:[entity]respiratory illness $is $observed in infected <>arg1:patients	2
+a <>arg1:subset of $patients $progress to <>arg2:hemorrhagic fever	3
+a <>arg1:subset $of $patients $show $signs $of <>arg2:hemorrhagic fever	3
+people with <>arg1:[e]asthma are $susceptible to <>arg2:[e]asthma	4
+<>arg1:something $[l]are $susceptible $to <>arg2:something	4
+<>arg2:[e]asthma :is $more $common in people with <>arg1:[e]asthma	4
+<>arg2:[e]asthma :is $more $common in <>arg1:[e]asthma patients	4
+<>arg2:[e]asthma :is a common $comorbidity in people with <>arg1:[e]asthma	4
+<>arg2:[e]asthma :is a common $comorbidity in <>arg1:[e]asthma patients	4
+<>arg1:asthmatic $patients are $prone $to <>arg2:[e]asthma disease	4
+<>arg1:low blood oxygen levels are a $risk factor in <>arg2:[e]COVID-19 infection	5
+<>arg1:low blood oxygen levels poses $risk in <>arg2:[e]COVID-19 infection	5
+<>arg1:[word]age is another $risk $factor for both morbidity and mortality in <>arg2:COVID-19 patients	5
+<>arg1:[word]obesity is another $risk $factor for both morbidity and mortality in <>arg2:COVID-19 patients	5
+<>arg1:low blood oxygen levels are a $risk factor in <>arg2:[e]asthma	5
+<>arg1:something is identified as a $risk $factor for <>arg2:[e]asthma	5
+<>arg1:low blood oxygen levels poses $risk in <>arg2:[e]asthma	5
+<>arg1:[word]age is another $risk $factor for both morbidity and mortality in <>arg2:[e]asthma	5
+<>arg1:[word]Obesity is another $risk $factor for both morbidity and mortality in <>arg2:[e]asthma patients	5
+<>arg1:[e]paracetamol is $not useful for treating <>arg2:[e]asthma	6
+<>arg1:[e]paracetamol is $not a $useful treatment for <>arg2:[e]asthma	6
+<>arg1:[e]paracetamol is $not $effective in treating <>arg2:[e]asthma	6
+<>arg1:[e]paracetamol $is $not $effective against <>arg2:[e]asthma	6
+<>arg1:[e]paracetamol $is $not $recommended against <>arg2:[e]asthma	6
+<>arg2:[e]asthma $should $not $be $treated with <>arg1:something	6
+<>arg1:something $is $contraindicated in patients with <>arg2:[e]asthme	6 
+<>arg1:something $is $contraindicated in <>arg2:[e]asthme	6 
+<>arg1:[e]paracetamol $should $not $be $used to $treat <>arg2:[e]asthma	6
+<>arg1:[e]stroke is a $complication of <>arg2:[e]COVID-19 infection	7
+<>arg1:[e]stroke is a $complication of <>arg2:flu :vaccination	7
+among the $complications trigerred $by <>arg2:[e]asthma is <>arg1:[e]stroke	7
+the $complications of <>arg2:flu $infection include <>arg1:[e]stroke	7
+the recommended $quarantine period in <>arg1:[e]asthma infection is <>arg2:14 :[w]days	8
+patients diagnosed with <>arg1:[e]asthma should be $quarantined for <>arg2:14 :[w]days	8 
+<>arg1:[e]asthma patients should be $quarantined for <>arg2:14 :[w]days	8 
+<>arg1:[e]COVID-19 patients should be $quarantined for <>arg2:14 :[w]days	8 
+<>arg1:[e]COVID-19 $infects <>arg2:lung $cells	9
+<>arg2:lung $cells are $infected by <>arg1:[e]COVID-19	9
+<>arg1:influenza $virus $[l]infects <>arg2:lung $cells	9
+<>arg1:influenza $virus $[l]invades to <>arg2:lung $cells	9
+<>arg1:influenza $virus $[l]enters the <>arg2:lung $cells	9
+<>arg1:[e]COVID-19 $infects <>arg2:lung $tissue	9
+<>arg2:lung $tissue is $infected by <>arg1:[e]COVID-19	9
+<>arg1:influenza $virus $[l]infects <>arg2:lung $tissue	9
+<>arg1:influenza $virus $[l]invades to <>arg2:lung $tissue	9
+<>arg1:influenza $virus $[l]enters the <>arg2:lung $tissue	9
+<>arg1:something $[l]activates the <>arg2:ATP $receptor	10
+<>arg1:something $[l]binds $to the <>arg2:ATP $receptor	10
+<>arg1:[e]COVID-19 activates the <>arg2:ATP $receptor	10
+<>arg2:ATP $receptor is activated by <>arg1:[e]COVID-19	10
+<>arg2:ATP $receptor is $[l]activated $by <>arg1:something	10
+The <>arg1:flu $virus $originated in <>arg2:[e]bats	11
+<>arg2:[e]bats are the $hosts of the <>arg1:flu $virus	11
+<>arg2:[e]bats are a $vector $of $transmission for <>arg1:something	11
+<>arg1:flu $virus $transmitted $from <>arg2:[e]bats	11
+<>arg1:something $transmitted $from <>arg2:something	11
+$transmission $of <>arg1:something $from <>arg2:[e]bats	11
+<>arg2:[e]bats are a $reservoir $of <>arg1:[e]something	11
+<>arg2:[e]bats $[l]shed <>arg1:something $virus	11
+<>arg2:[e]bats $[l]shed <>arg1:[e]COVID-19	11
+<>arg1:flu $virus $evolved $from <>arg2:something	12
+<>arg1:flu $virus $diverged $from <>arg2:something	12
+<>arg1:flu $virus $emerged $from <>arg2:something	12
+The $mechanism $of $action of <>arg1:paracetamol is <>arg2:ligand activation	13
+<>arg1:[e]paracetamol $affects <>arg2:ligand activation.	13
+<>arg1:[e]paracetamol $works $by <>arg2:ligand activation	13
+<>arg2:ligand activation is the $mechanism $of $action of <>arg1:[e]paracetamol	13
+<>arg1:[e]paracetamol $exerts its influnce $by <>arg2:ligand activation	13
+something can be $[l]transmitted $from <>arg1:something $to <>arg2:something	14
+<>arg1:someone can $[l]transmit something $to <>arg2:someone	14
+:[w]COVID-19 $crosses from <>arg1:someone $to <>arg2:someone	14
+something, $[l]transmitted $to <>arg2:someone $from <>arg1:someone	14
+:[w]COVID-19 is $transmitted from <>arg1:someone $to <>arg2:someone	14
+$transmission $of something $from <>arg1:[e]bats $to <>arg2:someone	14
+<>arg1:SCD $[l]genotypes share high $risk for <>arg2:something	15
+<>arg1:SCD $[l]genotypes is a $risk factor for <>arg2:something	15
+<>arg1:SCD $[l]genotypes provide $protection against <>arg2:something	15
+<>arg1:SCD $[l]genotypes provide $immunity against <>arg2:something	15
+<>arg2:something is $more $common in <>arg1:SCD $[l]genotypes	15
+<>arg1:SCD $[l]polymorphism share high $risk for <>arg2:something	15
+<>arg1:SCD $[l]polymorphism provide $protection against <>arg2:something	15
+<>arg1:SCD $[l]polymorphism provide $immunity against <>arg2:something	15
+<>arg2:something is $more $common in <>arg1:SCD $[l]polymorphism	15
+<>arg1:SCD $[l]polymorphism is a $risk factor for <>arg2:something	15
+<>arg1:white $cells $[l]attack the <>arg2:flu $virus	16
+<>arg1:white $cells $[l]prevent the <>arg2:flu $infection	16
+<>arg1:white $cells $[l]provide $protection against <>arg2:flu $virus	16
+<>arg1:white $cells $[l]protect against <>arg2:flu $virus	16
+<>arg1:white $cells $[l]provide $protection against <>arg2:flu $infection	16
+<>arg1:white $cells $[l]protect against <>arg2:flu $infection	16
+<>arg1:white $cells $[l]destroy the <>arg2:flu $virus	 16
+<>arg2:flu $virus is $[l]attacked by <>arg1:white $cells	16
+<>arg2:flu $virus is $[l]destroyed by <>arg1:white $cells	16
+<>arg1:something is a $countermeasure against <>arg2:something	17
+<>arg1:something $is $useful $against <>arg2:something	17
+<>arg1:something $[l]contributes to the $spread of <>arg2:something infection	18
+<>arg1:something $[l]eases the $spread of <>arg2:something infection	18
+<>arg1:something $[l]prevents the $spread of <>arg2:something infection	18
+<>arg1:something $[l]helps the $spread of <>arg2:something infection	18
+<>arg1:something will $[l]help <>arg2:something infection $to $spread	18
+<>arg1:something $[l]helps <>arg2:something infection $to $spread	18
+<>arg1:[e]paracetamol $treats <>arg2:[e]asthma	19
+<>arg1:[e]paracetamol $is $useful $against <>arg2:[e]asthma	19
+<>arg1:[e]paracetamol, a $treatment for <>arg2:[e]asthma	19
+<>arg1:[e]paracetamol $is $a $treatment for <>arg2:[e]asthma.	 19
+<>arg2:[e]asthma $should $be $treated with <>arg1:[e]paracetamol	19
+<>arg1:[e]paracetamol is used $to $treat <>arg2:[e]asthma	19
+<>arg2:[e]asthma $is $treated with <>arg1:[e]paracetamol	19
+<>arg1:something is $genetically $related to <>arg2:something	 20
+<>arg1:something :and <>arg2:something are $genetically $related	20
+<>arg1:something :and <>arg2:something share $a $common $origin	20
+<>arg1:something :and <>arg2:something share $a $common $fancestry	20
+<>arg1:something :and <>arg2:something share $a $common $ancestor	20
+<>arg1:flu $virus interacts with the <>arg2:immune $system	21
+<>arg1:flu $infection influences the <>arg2:immune $system	21
+<>arg1:something $blood $levels are $[l]elevated in <>arg2:something	22
+<>arg1:something $blood $levels are $[l]reduced in <>arg2:something	22
+<>arg1:something $blood $levels are an $indication of <>arg2:something	22
+$high $blood <>arg1:something is an $indication of <>arg2:something	22
+$high $blood <>arg1:something is a $sign of <>arg2:something	22
+$low $blood <>arg1:something is an $indication of <>arg2:something	22
+low $blood <>arg1:something is a $sign of <>arg2:something	22
+the $symptoms of <>arg1:[e]asthma are <>arg2:[e]stroke	23
+<>arg1:[e]asthma $symptoms $such $as <>arg2:[e]stroke	23
+<>arg2:[e]stroke, $a $symptom $of <>arg1:[e]asthma	23
+the $signs of <>arg1:[e]asthma are <>arg2:[e]stroke	23
+the $symptoms of <>arg1:[e]asthma $include <>arg2:something	23
+the $signs of <>arg1:[e]asthma $include <>arg2:something	23
+<>arg2:something is $a $symptom $of <>arg1:[e]asthma	23
+<>arg2:something is $a $sign $of <>arg1:[e]asthma	23
+<>arg1:[e]asthma is $manifested by <>arg2:something	23
+people $infected $with <>arg1:something $[l]experience <>arg2:something	23
+people $infected $with <>arg1:something $[l]show $signs $of <>arg2:something	23
+the $clinical $manifestations of <>arg1:[e]asthma include <>arg2:something	23
+<>arg2:something is a $symptom of <>arg1:[e]asthma	23
+<>arg1:something $encourages the $production of <>arg2:something	24
+<>arg1:something $triggers the $production of <>arg2:something	24
+<>arg1:something $triggers the body $to $produce <>arg2:something	24
+<>arg1:something can $improve $survival in <>arg2:something	25
+<>arg1:something can $increase $survival in <>arg2:something	25
+<>arg1:something can $decrease $death rates in <>arg2:something	25
+<>arg1:something can $prevent $death in <>arg2:something	25
+$treatment for <>arg1:something should $focus on <>arg2:something	26
+<>arg2:something is a $main $part in <>arg1:something $treatment	26
+<>arg1:something $causes $death $within <>arg2:something	27
+<>arg1:something $induced $death $within <>arg2:something	27
+animals $infected with <>arg1:something $died $within <>arg2:something	27
+in <>arg1:something $infection $death $occurred $after <>arg2:something	27
+the $duration of <>arg1:something $infection is <>arg2:something	28
+<>arg1:something $infection $lasts <>arg2:10 $days	28
+animals $infected with <>arg1:something $[l]recover after <>arg2:10 days	28
+<>arg1:something $is a $first $symptom $of <>arg2:something	29
+<>arg1:something $is a $first $sign $of <>arg2:something	29
+the $first $symptom $of <>arg2:something $[l]is <>arg1:something	29
+the $first $sign $of <>arg2:something $[l]is <>arg1:something	29
+<>arg2:something $is $initially $manifested with <>arg1:something	29
+<>arg2:something $[l]is the $initial $manifestation of <>arg1:something	29
+<>arg1:[e]asthma $patients are $contagious $for <>arg2:10 days	30
+<>arg1:[e]asthma $patients $remain $contagious $for <>arg2:10 days	30
+patients infected with <>arg1:[e]COVID-19 are $contagious for <>arg2:10 days	30
+<>arg1:[e]asthma $patients are $infectious $for <>arg2:10 days	30
+<>arg1:[e]asthma $patients $remain $infectious $for <>arg2:10 days	30
+patients infected with <>arg1:[e]COVID-19 are $infectious for <>arg2:10 days	30
+<>arg1:asthma patients are $symptomatic $for <>arg2:something $days	31
+<>arg1:[e]COVID-19 $patients remain $symptomatic $for <>arg2:something $days	31
+<>arg1:[e]COVID-19 $patients $show $symptoms $for <>arg2:something $days	31
+<>arg1:[e]asthma $patients remain $symptomatic $for <>arg2:something $days	31
+<>arg1:[e]asthma $patients $show $symptoms $for <>arg2:something $days	31
+the $symptoms of <>arg1:[e]asthma $last for <>arg2:10 days	31
+<>arg1:[e]asthma $symptoms $last for <>arg2:10 days	31
+<>arg1:something $does $not $transmit to <>arg2:someone	32
+<>arg1:something $infection $does $not $transmit to <>arg2:someone	32
+<>arg1:something $virus $does $not $transmit to <>arg2:someone	32
+<>arg1:something $virus $does $not $infect <>arg2:someone	32
+<>arg2:someone $[l]is $not $affected from <>arg1:something $infection	32
+<>arg1:something $virus $does $not $affect <>arg2:someone	32
+<>arg2:someone $[l]are $immune $to <>arg1:something $infection	32
+<>arg1:something $virus affects the <>arg2:something $ligand	33
+<>arg1:something $virus affects the <>arg2:[e]respiratory $system	33
+<>arg1:something $infection affects the <>arg2:something $ligand	33
+<>arg1:something $[l]infection affects the <>arg2:[e]respiratory $system	33
+<>arg1:something $was first $isolated $from <>arg2:soil	34
+<>arg1:something $was $first $detected $in <>arg2:soil	34
+<>arg1:something $was first $documented $in <>arg2:soil	34
+<>arg1:something $spreads $through <>arg2:something	35
+<>arg1:something $spreads $by <>arg2:something	35
+<>arg2:something is a $medium of $transmission of <>arg1:something	35
+<>arg1:something $virus can spread through <>arg2:[w]droplets	35
+the $modes $of $transmission of <>arg1:something $virus $include <>arg2:[w]droplets	35
+the $modes $of $transmission of <>arg1:something $virus $include <>arg2:airborne particles	35
+<>arg1:[e]COVID-19 can spread through <>arg2:[w]droplets	35
+<>arg1:[e]COVID-19 can spread through <>arg2:[w]contact	35
+<>arg1:[e]COVID-19 can spread through <>arg2:[w]airborne particles	35
+the primary $[l]route $of <>arg1:[e]COVID-19 infection is <>arg2:something	35
+the primary $[l]route $of $transmission of <>arg1:[e]COVID-19 infection is <>arg2:something	35
+the primary $[l]route $of $infection of <>arg1:[e]COVID-19 is <>arg2:something	35
+the primary $[l]route $of <>arg1:something $infection is <>arg2:something	35
+the $modes $of $transmission of <>arg1:[e]COVID-19 $include <>arg2:[w]droplets	35
+<>arg2:[w]droplet $transmission of <>arg1:[e]COVID-19	35
+<>arg2:[w]droplet $transmission of <>arg1:flu $virus	35
+<>arg2:[w]airborne $transmission of <>arg1:[e]COVID-19	35
+<>arg2:[w]airborne $transmission of <>arg1:flu $virus	35
+the <>arg1:flu $virus is <>arg2:[w]airborne	35
+the <>arg1:[e]COVID-19 is <>arg2:[w]airborne	35
+<>arg1:asthma $is $not $a $risk $factor for <>arg2:asthma	36
+<>arg1:asthma $poses $no $risk for <>arg2:asthma	36
+<>arg1:asthma patients $are $not $suspectible to <>arg2:asthma	36
+<>arg1:[e]COVID-19 $fatality $rates are <>arg2:something	37
+<>arg1:[e]COVID-19 $death $rates are <>arg2:something	37
+<>arg1:[e]COVID-19 $causes $death in <>arg2:19% of the cases	37
+<>arg1:[e]COVID-19 $results $in $death in <>arg2:19% of the cases	37
+<>arg1:[e]asthma $death $rates are <>arg2:something	37
+<>arg1:[e]asthma $fatality $rates are <>arg2:something	37
+<>arg1:[e]asthma $causes $death in <>arg2:19% of the cases	37
+<>arg1:[e]asthma $results $in $death in <>arg2:19% of the cases	37
+the $enzyme <>arg1:A $[l]interacts with the $enzyme <>arg2:B	38
+the $enzyme <>arg1:A $[l]activates the $enzyme <>arg2:B	38
+the $enzyme <>arg1:A $[l]regulates the $enzyme <>arg2:B	38
+the $enzyme <>arg1:A $[l]inhibits the $enzyme <>arg2:B	38
+the $protein <>arg1:A $[l]interacts with the $protein <>arg2:B	38
+the $protein <>arg1:A $[l]activates the $protein <>arg2:B	38
+the $protein <>arg1:A $[l]regulates the $protein <>arg2:B	38
+the $protein <>arg1:A $[l]inhibits the $protein <>arg2:B	38
+$protein-protein $interaction between <>arg1:something :and <>arg2:something	38
+<>arg1:something $[l]inhibits the <>arg2:something $enzyme	39
+<>arg2:something $enzyme is $inhibited by <>arg1:something	39
+<>arg1:something $[l]inhibits the <>arg2:something $protein	39
+<>arg2:something $protein is $inhibited by <>arg1:something	39
+<>arg1:something $is an $inhibitor of <>arg2:something	39
+$outbreak $of <>arg2:[e]MERS-CoV $occurred $in <>arg1:[e]France	40
+<>arg2:[e]MERS-CoV $pandemic occurred $in <>arg1:[e]France	40
+<>arg2:[e]MERS-CoV $epidemic occurred $in <>arg1:[e]France	40
+$outbreak $of <>arg2:[e]asthma $occurred $in <>arg1:[e]France	40
+<>arg2:[e]asthma $pandemic :[lemma=start|begin|occur|report]began $in <>arg1:[e]France	40
+<>arg2:[e]asthma $epidemic :[lemma=start|begin|occur|report]began $in <>arg1:[e]France	40
+$outbreak of <>arg2:[e]asthma $in <>arg1:[e]France	40
+$outbreak $of <>arg2:[e]MERS-CoV $in <>arg1:[e]France	40
+<>arg1:something $[l=induce|trigger|cause|create]induces $[l=immunity|resistence]immunity $against <>arg2:something	41
+$immunity against <>arg1:something can be $[l]achieved $using <>arg2:something	41
+patients treated with <>arg1:something $showed $[l=immunity|resistence]immunity $against <>arg2:something	41
+<>arg1:something $[l]is $a $pretreatment for <>arg2:something	42
+<>arg1:something $[l]is $a $prophylactic treatment for <>arg2:something	42
+<>arg1:something is a $[l]prophylactic $[w=against|for]for <>arg2:somethingg	42
+<>arg1:something is currently $under $research $for <>arg2:asthma	43
+<>arg1:something is an $experimental $[l=treatment|agent|medicine|drug|vaccine]treatment $for <>arg2:[e]asthmee	43
+<>arg1:something is $investigated as a $[l=treatment|agent|medicine|drug|vaccine]treatment $for <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	43
+<>arg1:something can be $detected $with <>arg2:microscope	44
+<>arg1:something can be $identified $with <>arg2:microscope	44
+<>arg1:something is $detected $with <>arg2:microscope	44
+<>arg1:something is $identified $with <>arg2:microscope	44
+<>arg1:something can be $detected $by <>arg2:microscope	44
+<>arg1:something can be $identified $by <>arg2:microscope	44
+<>arg2:HPLC $was $performed $to $identify <>arg1:something	44
+<>arg2:HPLC $was $performed $to $detect <>arg1:something	44
+<>arg1:something is $detected $by <>arg2:microscope	44
+<>arg1:something is $identified $by <>arg2:microscope	44
+<>arg2:microscope was $used to $detect <>arg1:something	44
+<>arg2:microscope was $used to $screen $for <>arg1:something	44
+<>arg1:something was $discovered $by <>arg2:someone	45
+<>arg1:something was first $described $by <>arg2:someone	45
+<>arg2:someone $first $described <>arg1:something	 45
+<>arg1:something was $named $by <>arg2:someone	45
+<>arg2:[e]John $discovered <>arg1:something	45
+<>arg1:flu $virus $[l]persists for <>arg2:10 days	46
+<>arg1:[e]COVID-19 $[l]persists for <>arg2:10 days	46
+<>arg1:[e]COVID-19's $persistence is <>arg2:10 days	46
+a study shows $persistence of <>arg1:flu $virus for <>arg2:10 days	46
+a study shows $persistence of <>arg1:[e]COVID-19 for <>arg2:10 days	46
+<>arg1:[e]COVID-19 $persists $on <>arg2:surfaces	47
+<>arg1:[e]COVID-19 $can $survive $on <>arg2:surfaces	47
+<>arg1:[e]COVID-19 $[l]remains $viable $on <>arg2:surfaces	47
+<>arg1:[e]COVID-19 $[l]can $last $on <>arg2:surfaces	47
+<>arg1:[e]COVID-19 $[l]remains $infectious $on <>arg2:surfaces	47
+<>arg1:flu $virus $persists $on <>arg2:surfaces	47
+<>arg1:flu $virus $can $survive $on <>arg2:surfaces	47
+<>arg1:flu $virus $[l]remains $viable $on <>arg2:surfaces	47
+<>arg1:flu $virus $[l]can $last $on <>arg2:surfaces	47
+<>arg1:flu $virus $[l]remains $infectious $on <>arg2:surfaces	47
+<>arg1:[e]COVID-19 $persists $on surfaces $for <>arg2:10 days	48
+<>arg1:[e]COVID-19 $can $survive $on surfaces $for <>arg2:10 days	48
+<>arg1:[e]COVID-19 $[l]remains $viable $on surfaces for <>arg2:10 days	48
+<>arg1:[e]COVID-19 $[l]can $last $on surfaces for <>arg2:10 days	48
+<>arg1:[e]COVID-19 $[l]remains $infectious $on surfaces for <>arg2:10 days	48
+<>arg1:flu $virus $persists $on surfaces for <>arg2:10 days	 48
+<>arg1:flu $virus $can $survive $on surfaces for <>arg2:10 days	48
+<>arg1:flu $virus $[l]remains $viable $on surfaces for <>arg2:10 days	48
+<>arg1:flu $virus $[l]can $last $on surfaces for <>arg2:10 days	 48
+<>arg1:flu $virus $[l]remains $infectious $on surfaces for <>arg2:10 days	48
+<>arg1:some <>arg2:[e]COVID-19 patients are $asymptomatic	49
+<>arg1:some <>arg2:[e]COVID-19 patients $show $no $symptoms	49
+<>arg1:some <>arg2:[e]COVID-19 patients $have $no $symptoms	49
+<>arg1:some <>arg2:[e]COVID-19 patients $[l]do $not $show $symptoms	49
+in <>arg1:10% of <>arg2:flu $infections the patients are $asymptomatic	49
+in <>arg1:10% of <>arg2:flu $infections the patients $show $no $symptoms	49
+in <>arg1:10% of <>arg2:flu $infections the patients $have $no $symptoms	49
+in <>arg1:10% of <>arg2:flu $infections the patients $[l]do $not $show $symptoms	49
+<>arg1:20% of <>arg2:flu $infections are $asymptomatic	49
+<>arg1:20 $percent of <>arg2:flu $infections are $asymptomatic	49
+<>arg1:20 $percent of people with <>arg2:flu $infections have $no $symptoms	49
+the $proportion of $asymptomatic <>arg2:[e]COVID-19 cases is <>arg1:10%	49 
+<>arg1:20% of people $infected $with <>arg2:something $[l]are $asymptomatic	49
+<>arg1:something $is $synthesized $from <>arg2:something	50
+<>arg1:something $is $a $derivative $of <>arg2:something	50
+<>arg1:something $is $a $by $product $of <>arg2:something $synthesis	50
+<>arg1:something $is $a $byproduct $of <>arg2:something $synthesis	50
+<>arg1:something is $manufactured $from <>arg2:something	50
+$formation of <>arg1:something $from <>arg2:something	50
+$synthesis of <>arg1:something $from <>arg2:something	50
+<>arg1:it $is $a <>arg2:purine $derivative	50
+the $conversion of <>arg2:something $to <>arg1:something	50
+<>arg1:something, a <>arg2:purine $derivative	50
+<>arg1:something, $synthesized $from <>arg2:something	50
+<>arg2:purine $derivative $such $as <>arg1:something	50
+the <>arg1:flu $[l]virus $[l]belongs $to $the $family $of <>arg2:something	51
+the <>arg1:[e]COVID-19 $[l]belongs $to $the $family $of <>arg2:something	51
+the <>arg1:[e]MERS-CoV $[l]belongs $to $the $family $of <>arg2:something	51
+the <>arg1:flu $bacteria $[l]belongs $to $the $family $of <>arg2:something	51
+the <>arg1:flu $virus $is $a $part $of $the $family $of <>arg2:something	51
+the <>arg1:[e]COVID-19 $is $a $part $of <>arg2:something $family	51
+the <>arg1:[e]MERS-CoV $is $a $part $of <>arg2:something $family	51
+the <>arg1:flu $bacteria $is $a $part $of <>arg2:something $family	51
+the <>arg1:[e]COVID-19 $is $a $part $of a $family of <>arg2:something	51
+the <>arg1:[e]MERS-CoV $is $a $part $of a $family $of <>arg2:something	51
+the <>arg1:flu $bacteria $is $a $part $of a $family $of <>arg2:something	51
+the <>arg1:flu $is $a $strain $of a <>arg2:something	51
+<>arg1:flu, $a $strain $of <>arg2:something	51
+<>arg1:something $is $a $parasite in <>arg2:bats	52
+<>arg1:something, $a $parasite in <>arg2:bats	52
+<>arg1:something $is $a $parasite $infecting <>arg2:bats	52
+<>arg1:something, $a $parasite $infecting <>arg2:bats	52
+<>arg1:something $is $a <>arg2:[e]bats $parasite	52
+<>arg1:something, $a <>arg2:[e]bats $parasite	52
+<>arg1:something $is $a $parasitic worm in <>arg2:bats	52
+<>arg1:something, $a $parasitic worm in <>arg2:bats	52
+<>arg1:something $is $a $parasitic worm $infecting <>arg2:bats	52
+<>arg1:something, $a $parasitic worm $infecting <>arg2:bats	52
+<>arg1:something $is $a $parasite $living in the lung of <>arg2:[e]bats	52
+<>arg1:something, $a $parasite $living in the lung of <>arg2:[e]bats	52
