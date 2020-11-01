@@ -78,11 +78,12 @@ The $mechanism $of $action of <>arg1:paracetamol is <>arg2:ligand activation	13
 <>arg2:ligand activation is the $mechanism $of $action of <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol	13
 <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $exerts its influnce $by <>arg2:ligand activation	13
 something can be $[l=transmit|cross]transmitted $from <>arg1:something $to <>arg2:something	14
-<>arg1:someone can $[l=transmmit|cross]transmit something $to <>arg2:someone	14
+<>arg1:someone can $[l=transmit|cross]transmit something $to <>arg2:someone	14
 :[w]COVID-19 $crosses from <>arg1:someone $to <>arg2:someone	14
 something, $[l]transmitted $to <>arg2:someone $from <>arg1:someone	14
-$[w]COVID-19 is $transmitted from <>arg1:someone $to <>arg2:someone	14
-$[e=ORGANISM|ORGANISM_SUBSTANCE|ORGANISM_SUBDIVISION]COVID-19 is $transmitted from <>arg1:someone $to <>arg2:someone	14
+<>arg1:someone, which can $[l=transmit|cross]transmit something $to <>arg2:someone	14
+$[e=ORGANISM|ORGANISM_SUBSTANCE|COVID-19]COVID-19 is $transmitted from <>arg1:someone $to <>arg2:someone	14
+$[e=ORGANISM|ORGANISM_SUBSTANCE|COVID-19]COVID-19, that is $transmitted from <>arg1:someone $to <>arg2:someone	14
 $transmission $of something $from <>arg1:[e]bats $to <>arg2:someone	14
 <>arg1:SCD $[l]genotypes share high $risk for <>arg2:something	15
 <>arg1:[e=DNA|GENE_OR_GENE_PRODUCT]SCD share high $risk for <>arg2:something	15
