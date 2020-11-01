@@ -1,7 +1,10 @@
 <>arg1:virus $infection $causes a <>arg2:condition	1
+<>arg1:virus $infection, which $causes a <>arg2:condition	1
 <>arg1:virus $infection $results $in <>arg2:condition	1
-<>arg2:condition $is $the $result of <>arg1:virus $infection	1 
-<>arg2:condition $is $caused $by <>arg1:virus $infection	1
+<>arg1:virus $infection, which $results $in <>arg2:condition	1
+<>arg2:condition $is $the $result of <>arg1:virus $infection	1
+<>arg2:condition, which $is $the $result of <>arg1:virus $infection	1
+<>arg2:condition $is $[l=cause|trigger]caused $by <>arg1:virus $infection	1
 as a result of <>arg1:virus $infection, <>arg2:condition $can $develop	1
 infected <>arg1:patients $usually $develop <>arg2:[entity]respiratory illness	2
 infected <>arg1:patients $show $signs $of <>arg2:[entity]respiratory illness	2
@@ -32,35 +35,37 @@ the $comorbidity of <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma and <>arg1:[
 <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $is $not $effective against <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	6
 <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $is $not $recommended against <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	6
 <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $should $not $be $treated with <>arg1:something	6
-<>arg1:something $is $contraindicated in patients with <>arg2:[e]asthme	6 
-<>arg1:something $is $contraindicated in <>arg2:[e]asthme	6 
+<>arg1:something $is $contraindicated in $patients with <>arg2:[e]asthme	6 
+<>arg1:something $is $contraindicated in <>arg2:[e=DISEASE]asthma	6 
 <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $should $not $be $used to $treat <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	6
-<>arg1:[e]stroke is a $complication of <>arg2:[e]COVID-19 infection	7
+<>arg1:[e]stroke is a $complication of <>arg2:[e=COVID-19|DISEASE|ORGANISM|ORGANISM_SUBSTANCE]COVID-19 infection	7
 <>arg1:[e]stroke is a $complication of <>arg2:flu :vaccination	7
+<>arg1:[e]stroke, which is a $complication of <>arg2:flu :vaccination	7
 among the $complications trigerred $by <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma is <>arg1:[e]stroke	7
 the $complications of <>arg2:flu $infection include <>arg1:[e]stroke	7
 the recommended $quarantine period in <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma infection is <>arg2:14 :[w]days	8
 patients diagnosed with <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma should be $quarantined for <>arg2:14 :[w]days	8 
 <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma patients should be $quarantined for <>arg2:14 :[w]days	8 
-<>arg1:[e]COVID-19 patients should be $quarantined for <>arg2:14 :[w]days	8 
-<>arg1:[e]COVID-19 $infects <>arg2:lung $cells	9
+<>arg1:[e=COVID-19|ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]COVID-19 patients should be $quarantined for <>arg2:14 :[w]days	8 
+<>arg1:[e=COVID-19|ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]COVID-19 $[l=infect|invade|damage]infects <>arg2:lung $cells	9
 <>arg2:lung $cells are $infected by <>arg1:[e]COVID-19	9
+<>arg2:lung $[l=cell|tissue]cells $infected by <>arg1:[e]COVID-19	9
 <>arg1:influenza $virus $[l]infects <>arg2:lung $cells	9
 <>arg1:influenza $virus $[l]invades to <>arg2:lung $cells	9
 <>arg1:influenza $virus $[l]enters the <>arg2:lung $cells	9
-<>arg1:[e]COVID-19 $infects <>arg2:lung $tissue	9
-<>arg2:lung $tissue is $infected by <>arg1:[e]COVID-19	9
-<>arg1:influenza $virus $[l]infects <>arg2:lung $tissue	9
-<>arg1:influenza $virus $[l]invades to <>arg2:lung $tissue	9
-<>arg1:influenza $virus $[l]enters the <>arg2:lung $tissue	9
+<>arg1:[e=COVID-19|ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]COVID-19 $[l=invade|enter|infect|damage]invades <>arg2:lung $tissue	9
+<>arg2:lung $tissue is $[l=infect|invade|damage|enter]infected by <>arg1:[e]COVID-19	9
+<>arg1:influenza $virus $[l=invade|enter|infect|damage]invades to <>arg2:lung $tissue	9
 <>arg1:something $[l=activate|bind|regulate|inhibit|damage|enter]activates the <>arg2:ATP $receptor	10
 <>arg1:something $[l]binds $to the <>arg2:ATP $receptor	10
 <>arg1:[e]COVID-19 activates the <>arg2:ATP $receptor	10
 <>arg1:[e=ORGANISM_SUBSTANCE]COVID-19 activates the <>arg2:ATP $receptor	10
-<>arg2:ATP $receptor is activated by <>arg1:[e]COVID-19	10
-<>arg2:ATP $receptor is activated $by <>arg1:[e=ORGANISM_SUBSTANCE|ORGANISM]COVID-19	10
+<>arg2:ATP $receptor is activated by <>arg1:[e=COVID-19|ORGANISM|ORGANISM_SUBSTANCE]COVID-19	10
+<>arg2:ATP $receptor, which is activated by <>arg1:[e=COVID-19|ORGANISM|ORGANISM_SUBSTANCE]COVID-19	10
 <>arg2:ATP $receptor is $[l]activated $by <>arg1:something	10
+<>arg2:ATP $receptor, which is $[l]activated $by <>arg1:something	10
 The <>arg1:flu $virus $originated in <>arg2:[e=ORGANISM|ORGANISM_SUBSTANCE]bats	11
+The <>arg1:flu $virus, which $originated in <>arg2:[e=ORGANISM|ORGANISM_SUBSTANCE]bats	11
 <>arg2:[e]bats are the $hosts of the <>arg1:flu $virus	11
 <>arg2:[e]bats are a $vector $of $transmission for <>arg1:something	11
 <>arg1:flu $virus $transmitted $from <>arg2:[e]bats	11
@@ -73,10 +78,10 @@ $transmission $of <>arg1:something $from <>arg2:[e=ORGANISM|ORGANISM_SUBSTANCE]b
 <>arg1:flu $virus $[l=evolve|emerge|diverge]evolved $from <>arg2:something	12
 <>arg1:[e=ORGANISM|ORGANISM_SUBSTANCE]flu $[l=evolve|emerge|diverge]evolved $from <>arg2:something	12
 the $evolution $of <>arg1:[e=ORGANISM|ORGANISM_SUBSTANCE]flu $from <>arg1:[e=ORGANISM|ORGANISM_SUBSTANCE]something	12
-The $mechanism $of $action of <>arg1:paracetamol is <>arg2:ligand activation	13
-<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $affects <>arg2:ligand activation.	13
-<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $works $by <>arg2:ligand activation	13
-<>arg2:ligand activation is the $mechanism $of $action of <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol	13
+The $mechanism $of $action of <>arg1:paracetamol is <>arg2:activation of glocuse	13
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $affects <>arg2:ligand activation	13
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $works $by <>arg2:activation of glocuse	13
+<>arg2:inhibition of kinases is the $mechanism $of $action of <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol	13
 <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $exerts its influnce $by <>arg2:ligand activation	13
 something can be $[l=transmit|cross]transmitted $from <>arg1:something $to <>arg2:something	14
 <>arg1:someone can $[l=transmit|cross]transmit something $to <>arg2:someone	14
