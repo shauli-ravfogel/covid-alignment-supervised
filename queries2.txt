@@ -54,7 +54,7 @@ patients diagnosed with <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma should b
 <>arg1:influenza $virus $[l]invades to <>arg2:lung $cells	9
 <>arg1:influenza $virus $[l]enters the <>arg2:lung $cells	9
 <>arg1:[e=COVID-19|ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]COVID-19 $[l=invade|enter|infect|damage]invades <>arg2:lung $tissue	9
-<>arg2:lung $tissue is $[l=infect|invade|damage|enter]infected by <>arg1:[e]COVID-19	9
+<>arg2:lung $tissue is $[l=infect|invade|damage|enter]infected by <>arg1:[e=COVID-19|ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]COVID-19	9
 <>arg1:influenza $virus $[l=invade|enter|infect|damage]invades to <>arg2:lung $tissue	9
 <>arg1:something $[l=activate|bind|regulate|inhibit|damage|enter]activates the <>arg2:ATP $receptor	10
 <>arg1:something $[l]binds $to the <>arg2:ATP $receptor	10
@@ -293,7 +293,7 @@ a study shows $persistence of <>arg1:[e=DISEASE|ORGANISM]COVID-19 for <>arg2:10 
 <>arg1:[e]COVID-19 $[l]remains $infectious $on <>arg2:surfaces	47
 <>arg1:flu $virus $persists $on <>arg2:surfaces	47
 <>arg1:flu $virus $can $survive $on <>arg2:surfaces	47
-<>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]flu $can $survive $on <>arg2:surfaces
+<>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]flu $can $survive $on <>arg2:surfaces	47
 <>arg1:flu $virus $[l]remains $viable $on <>arg2:surfaces	47
 <>arg1:flu $virus $[l]can $last $on <>arg2:surfaces	47
 <>arg1:flu $virus $[l]remains $infectious $on <>arg2:surfaces	47
@@ -304,8 +304,9 @@ a study shows $persistence of <>arg1:[e=DISEASE|ORGANISM]COVID-19 for <>arg2:10 
 <>arg1:[e]COVID-19 $[l]remains $infectious $on surfaces for <>arg2:10 days	48
 <>arg1:flu $virus $persists $on surfaces for <>arg2:10 days	 48
 <>arg1:flu $virus $can $survive $on surfaces for <>arg2:10 days	48
-<>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]flu $can $survive $on surfaces for <>arg2:10 days	48
+<>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE|COVID-19]flu $can $survive $on surfaces for <>arg2:10 days	48
 <>arg1:flu $virus $[l]remains $viable $on surfaces for <>arg2:10 days	48
+<>arg1:flu $virus, which can $[l=persist|detect|live|survive]persist $on <>arg2:surfaces	48
 <>arg1:flu $virus $[l]can $last $on surfaces for <>arg2:10 days	 48
 <>arg1:flu $virus $[l]remains $infectious $on surfaces for <>arg2:10 days	48
 in <>arg1:10% of the cases, <>arg2:[e]COVID-19 patients $show $no $symptoms	49
@@ -365,3 +366,14 @@ the <>arg1:flu $is $a $strain $of a <>arg2:something	51
 <>arg1:something $is $a $parasite $living in the lung of <>arg2:[e]bats	52
 <>arg1:something, $a $parasite $living in the lung of <>arg2:[e]bats	52
 the <>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]pig $parasite arg2:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]Anatidae	52
+<>arg1:[e=DISEASE]disease may $[l=require|necessitate|need]require <>arg2:[e=ORGAN]lung $transplant	53
+<>arg1:[e=DISEASE]disease, that may $[l=require|necessitate|need]require <>arg2:[e=ORGAN]lung $transplant	53
+<>arg1:[e=ORGAN]Liver $transplant is a $[l=treatment|measure|operation]treatment for <>arg2:[e=DISEASE]flu	53
+<>arg1:[e=DISEASE]flu may $involve the <>arg2:[e=ORGAN]liver	54
+<>arg1:[e=DISEASE]flu with <>arg2:[e=ORGAN]liver $involvement	54
+<>arg1:[e=DISEASE]flu, which may $[l]involve the <>arg2:[e=ORGAN]liver	54
+<>arg2:[e=ORGAN]liver may be affected from <>arg1:[e=DISEASE]flu	54
+<>arg2:[e=ORGAN]liver, which may be $[l=affect|influence|damage]affected from <>arg1:[e=DISEASE]flu	54
+<>arg1:[e=CELLULAR_COMPONENT]mitochondria is $responsible for <>arg2:energy production	55
+<>arg1:[e=CELLULAR_COMPONENT]mitochondria, which is $responsible for <>arg2:energy production	55
+<>arg2:energy $[l=produce|create|generate]produced by the <>arg1:[e=CELLULAR_COMPONENT]mitochondria	55
