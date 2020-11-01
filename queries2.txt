@@ -8,38 +8,39 @@ infected <>arg1:patients $show $signs $of <>arg2:[entity]respiratory illness	2
 <>arg2:[entity]respiratory illness $is $observed in infected <>arg1:patients	2
 a <>arg1:subset of $patients $progress to <>arg2:hemorrhagic fever	3
 a <>arg1:subset $of $patients $show $signs $of <>arg2:hemorrhagic fever	3
-people with <>arg1:[e]asthma are $susceptible to <>arg2:[e]asthma	4
+people with <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma are $susceptible to <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	4
 <>arg1:something $[l]are $susceptible $to <>arg2:something	4
-<>arg2:[e]asthma :is $more $common in people with <>arg1:[e]asthma	4
-<>arg2:[e]asthma :is $more $common in <>arg1:[e]asthma patients	4
-<>arg2:[e]asthma :is a common $comorbidity in people with <>arg1:[e]asthma	4
-<>arg2:[e]asthma :is a common $comorbidity in <>arg1:[e]asthma patients	4
-<>arg1:asthmatic $patients are $prone $to <>arg2:[e]asthma disease	4
+<>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma :is $more $common in people with <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	4
+<>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma :is $more $common in <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma patients	4
+<>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma :is a common $comorbidity in people with <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	4
+<>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma :is a common $comorbidity in <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma patients	4
+<>arg1:asthmatic $patients are $prone $to <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma disease	4
 <>arg1:low blood oxygen levels are a $risk factor in <>arg2:[e]COVID-19 infection	5
 <>arg1:low blood oxygen levels poses $risk in <>arg2:[e]COVID-19 infection	5
 <>arg1:[word]age is another $risk $factor for both morbidity and mortality in <>arg2:COVID-19 patients	5
 <>arg1:[word]obesity is another $risk $factor for both morbidity and mortality in <>arg2:COVID-19 patients	5
-<>arg1:low blood oxygen levels are a $risk factor in <>arg2:[e]asthma	5
-<>arg1:something is identified as a $risk $factor for <>arg2:[e]asthma	5
-<>arg1:low blood oxygen levels poses $risk in <>arg2:[e]asthma	5
-<>arg1:[word]age is another $risk $factor for both morbidity and mortality in <>arg2:[e]asthma	5
-<>arg1:[word]Obesity is another $risk $factor for both morbidity and mortality in <>arg2:[e]asthma patients	5
-<>arg1:[e]paracetamol is $not useful for treating <>arg2:[e]asthma	6
-<>arg1:[e]paracetamol is $not a $useful treatment for <>arg2:[e]asthma	6
-<>arg1:[e]paracetamol is $not $effective in treating <>arg2:[e]asthma	6
-<>arg1:[e]paracetamol $is $not $effective against <>arg2:[e]asthma	6
-<>arg1:[e]paracetamol $is $not $recommended against <>arg2:[e]asthma	6
-<>arg2:[e]asthma $should $not $be $treated with <>arg1:something	6
+<>arg1:low blood oxygen levels are a $risk factor in <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	5
+<>arg1:something is identified as a $risk $factor for <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	5
+<>arg1:low blood oxygen levels poses $risk in <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	5
+<>arg1:[word]age is another $risk $factor for both morbidity and mortality in <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	5
+<>arg1:[word]Obesity is another $risk $factor for both morbidity and mortality in <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma patients	5
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma is a $risk $factor in <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	5
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol is $not useful for treating <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	6
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol is $not a $useful treatment for <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	6
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol is $not $effective in treating <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	6
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $is $not $effective against <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	6
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $is $not $recommended against <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	6
+<>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $should $not $be $treated with <>arg1:something	6
 <>arg1:something $is $contraindicated in patients with <>arg2:[e]asthme	6 
 <>arg1:something $is $contraindicated in <>arg2:[e]asthme	6 
-<>arg1:[e]paracetamol $should $not $be $used to $treat <>arg2:[e]asthma	6
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $should $not $be $used to $treat <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	6
 <>arg1:[e]stroke is a $complication of <>arg2:[e]COVID-19 infection	7
 <>arg1:[e]stroke is a $complication of <>arg2:flu :vaccination	7
-among the $complications trigerred $by <>arg2:[e]asthma is <>arg1:[e]stroke	7
+among the $complications trigerred $by <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma is <>arg1:[e]stroke	7
 the $complications of <>arg2:flu $infection include <>arg1:[e]stroke	7
-the recommended $quarantine period in <>arg1:[e]asthma infection is <>arg2:14 :[w]days	8
-patients diagnosed with <>arg1:[e]asthma should be $quarantined for <>arg2:14 :[w]days	8 
-<>arg1:[e]asthma patients should be $quarantined for <>arg2:14 :[w]days	8 
+the recommended $quarantine period in <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma infection is <>arg2:14 :[w]days	8
+patients diagnosed with <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma should be $quarantined for <>arg2:14 :[w]days	8 
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma patients should be $quarantined for <>arg2:14 :[w]days	8 
 <>arg1:[e]COVID-19 patients should be $quarantined for <>arg2:14 :[w]days	8 
 <>arg1:[e]COVID-19 $infects <>arg2:lung $cells	9
 <>arg2:lung $cells are $infected by <>arg1:[e]COVID-19	9
@@ -69,10 +70,10 @@ $transmission $of <>arg1:something $from <>arg2:[e]bats	11
 <>arg1:flu $virus $diverged $from <>arg2:something	12
 <>arg1:flu $virus $emerged $from <>arg2:something	12
 The $mechanism $of $action of <>arg1:paracetamol is <>arg2:ligand activation	13
-<>arg1:[e]paracetamol $affects <>arg2:ligand activation.	13
-<>arg1:[e]paracetamol $works $by <>arg2:ligand activation	13
-<>arg2:ligand activation is the $mechanism $of $action of <>arg1:[e]paracetamol	13
-<>arg1:[e]paracetamol $exerts its influnce $by <>arg2:ligand activation	13
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $affects <>arg2:ligand activation.	13
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $works $by <>arg2:ligand activation	13
+<>arg2:ligand activation is the $mechanism $of $action of <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol	13
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $exerts its influnce $by <>arg2:ligand activation	13
 something can be $[l]transmitted $from <>arg1:something $to <>arg2:something	14
 <>arg1:someone can $[l]transmit something $to <>arg2:someone	14
 :[w]COVID-19 $crosses from <>arg1:someone $to <>arg2:someone	14
@@ -106,13 +107,13 @@ $transmission $of something $from <>arg1:[e]bats $to <>arg2:someone	14
 <>arg1:something $[l]helps the $spread of <>arg2:something infection	18
 <>arg1:something will $[l]help <>arg2:something infection $to $spread	18
 <>arg1:something $[l]helps <>arg2:something infection $to $spread	18
-<>arg1:[e]paracetamol $treats <>arg2:[e]asthma	19
-<>arg1:[e]paracetamol $is $useful $against <>arg2:[e]asthma	19
-<>arg1:[e]paracetamol, a $treatment for <>arg2:[e]asthma	19
-<>arg1:[e]paracetamol $is $a $treatment for <>arg2:[e]asthma.	 19
-<>arg2:[e]asthma $should $be $treated with <>arg1:[e]paracetamol	19
-<>arg1:[e]paracetamol is used $to $treat <>arg2:[e]asthma	19
-<>arg2:[e]asthma $is $treated with <>arg1:[e]paracetamol	19
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $treats <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	19
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $is $useful $against <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	19
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol, a $treatment for <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	19
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $is $a $treatment for <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma.	 19
+<>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $should $be $treated with <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol	19
+<>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol is used $to $treat <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	19
+<>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $is $treated with <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol	19
 <>arg1:something is $genetically $related to <>arg2:something	 20
 <>arg1:something :and <>arg2:something are $genetically $related	20
 <>arg1:something :and <>arg2:something share $a $common $origin	20
@@ -127,19 +128,19 @@ $high $blood <>arg1:something is an $indication of <>arg2:something	22
 $high $blood <>arg1:something is a $sign of <>arg2:something	22
 $low $blood <>arg1:something is an $indication of <>arg2:something	22
 low $blood <>arg1:something is a $sign of <>arg2:something	22
-the $symptoms of <>arg1:[e]asthma are <>arg2:[e]stroke	23
-<>arg1:[e]asthma $symptoms $such $as <>arg2:[e]stroke	23
-<>arg2:[e]stroke, $a $symptom $of <>arg1:[e]asthma	23
-the $signs of <>arg1:[e]asthma are <>arg2:[e]stroke	23
-the $symptoms of <>arg1:[e]asthma $include <>arg2:something	23
-the $signs of <>arg1:[e]asthma $include <>arg2:something	23
-<>arg2:something is $a $symptom $of <>arg1:[e]asthma	23
-<>arg2:something is $a $sign $of <>arg1:[e]asthma	23
-<>arg1:[e]asthma is $manifested by <>arg2:something	23
+the $symptoms of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma are <>arg2:[e]stroke	23
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $symptoms $such $as <>arg2:[e]stroke	23
+<>arg2:[e]stroke, $a $symptom $of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	23
+the $signs of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma are <>arg2:[e]stroke	23
+the $symptoms of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $include <>arg2:something	23
+the $signs of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $include <>arg2:something	23
+<>arg2:something is $a $symptom $of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	23
+<>arg2:something is $a $sign $of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	23
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma is $manifested by <>arg2:something	23
 people $infected $with <>arg1:something $[l]experience <>arg2:something	23
 people $infected $with <>arg1:something $[l]show $signs $of <>arg2:something	23
-the $clinical $manifestations of <>arg1:[e]asthma include <>arg2:something	23
-<>arg2:something is a $symptom of <>arg1:[e]asthma	23
+the $clinical $manifestations of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma include <>arg2:something	23
+<>arg2:something is a $symptom of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	23
 <>arg1:something $encourages the $production of <>arg2:something	24sorry. each line represents 
 <>arg1:something $triggers the $production of <>arg2:something	24
 <>arg1:something $triggers the body $to $produce <>arg2:something	24
@@ -162,19 +163,19 @@ the $first $symptom $of <>arg2:something $[l]is <>arg1:something	29
 the $first $sign $of <>arg2:something $[l]is <>arg1:something	29
 <>arg2:something $is $initially $manifested with <>arg1:something	29
 <>arg2:something $[l]is the $initial $manifestation of <>arg1:something	29
-<>arg1:[e]asthma $patients are $contagious $for <>arg2:10 days	30
-<>arg1:[e]asthma $patients $remain $contagious $for <>arg2:10 days	30
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $patients are $contagious $for <>arg2:10 days	30
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $patients $remain $contagious $for <>arg2:10 days	30
 patients infected with <>arg1:[e]COVID-19 are $contagious for <>arg2:10 days	30
-<>arg1:[e]asthma $patients are $infectious $for <>arg2:10 days	30
-<>arg1:[e]asthma $patients $remain $infectious $for <>arg2:10 days	30
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $patients are $infectious $for <>arg2:10 days	30
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $patients $remain $infectious $for <>arg2:10 days	30
 patients infected with <>arg1:[e]COVID-19 are $infectious for <>arg2:10 days	30
 <>arg1:asthma patients are $symptomatic $for <>arg2:something $days	31
 <>arg1:[e]COVID-19 $patients remain $symptomatic $for <>arg2:something $days	31
 <>arg1:[e]COVID-19 $patients $show $symptoms $for <>arg2:something $days	31
-<>arg1:[e]asthma $patients remain $symptomatic $for <>arg2:something $days	31
-<>arg1:[e]asthma $patients $show $symptoms $for <>arg2:something $days	31
-the $symptoms of <>arg1:[e]asthma $last for <>arg2:10 days	31
-<>arg1:[e]asthma $symptoms $last for <>arg2:10 days	31
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $patients remain $symptomatic $for <>arg2:something $days	31
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $patients $show $symptoms $for <>arg2:something $days	31
+the $symptoms of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $last for <>arg2:10 days	31
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $symptoms $last for <>arg2:10 days	31
 <>arg1:something $does $not $transmit to <>arg2:someone	32
 <>arg1:something $infection $does $not $transmit to <>arg2:someone	32
 <>arg1:something $virus $does $not $transmit to <>arg2:someone	32
@@ -216,10 +217,10 @@ the <>arg1:[e]COVID-19 is <>arg2:[w]airborne	35
 <>arg1:[e]COVID-19 $death $rates are <>arg2:something	37
 <>arg1:[e]COVID-19 $causes $death in <>arg2:19% of the cases	37
 <>arg1:[e]COVID-19 $results $in $death in <>arg2:19% of the cases	37
-<>arg1:[e]asthma $death $rates are <>arg2:something	37
-<>arg1:[e]asthma $fatality $rates are <>arg2:something	37
-<>arg1:[e]asthma $causes $death in <>arg2:19% of the cases	37
-<>arg1:[e]asthma $results $in $death in <>arg2:19% of the cases	37
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $death $rates are <>arg2:something	37
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $fatality $rates are <>arg2:something	37
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $causes $death in <>arg2:19% of the cases	37
+<>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $results $in $death in <>arg2:19% of the cases	37
 the $enzyme <>arg1:A $[l]interacts with the $enzyme <>arg2:B	38
 the $enzyme <>arg1:A $[l]activates the $enzyme <>arg2:B	38
 the $enzyme <>arg1:A $[l]regulates the $enzyme <>arg2:B	38
@@ -237,17 +238,17 @@ $protein-protein $interaction between <>arg1:something :and <>arg2:something	38
 $outbreak $of <>arg2:[e]MERS-CoV $occurred $in <>arg1:[e]France	40
 <>arg2:[e]MERS-CoV $pandemic occurred $in <>arg1:[e]France	40
 <>arg2:[e]MERS-CoV $epidemic occurred $in <>arg1:[e]France	40
-$outbreak $of <>arg2:[e]asthma $occurred $in <>arg1:[e]France	40
-<>arg2:[e]asthma $pandemic $[lemma=start|begin|occur|report]began $in <>arg1:[e]France	40
-<>arg2:[e]asthma $epidemic $[lemma=start|begin|occur|report]began $in <>arg1:[e]France	40
-$outbreak of <>arg2:[e]asthma $in <>arg1:[e]France	40
+$outbreak $of <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $occurred $in <>arg1:[e]France	40
+<>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $pandemic $[lemma=start|begin|occur|report]began $in <>arg1:[e]France	40
+<>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $epidemic $[lemma=start|begin|occur|report]began $in <>arg1:[e]France	40
+$outbreak of <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $in <>arg1:[e]France	40
 $outbreak $of <>arg2:[e]MERS-CoV $in <>arg1:[e]France	40
 <>arg1:something $[l=induce|trigger|cause|create]induces $[l=immunity|resistence]immunity $against <>arg2:something	41
 $immunity against <>arg1:something can be $[l]achieved $using <>arg2:something	41
 patients treated with <>arg1:something $showed $[l=immunity|resistence]immunity $against <>arg2:something	41
 <>arg1:something $[l]is $a $pretreatment for <>arg2:something	42
 <>arg1:something $[l]is $a $prophylactic treatment for <>arg2:something	42
-<>arg1:something is a $[l]prophylactic $[w=against|for]for <>arg2:somethingg	42
+<>arg1:something is a $[l]prophylactic $[w=against|for]for <>arg2:something	42
 <>arg1:something is currently $under $research $for <>arg2:asthma	43
 <>arg1:something is an $experimental $[l=treatment|agent|medicine|drug|vaccine]treatment $for <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	43
 <>arg1:something is $investigated as a $[l=treatment|agent|medicine|drug|vaccine]treatment $for <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	43
@@ -334,8 +335,8 @@ the <>arg1:flu $is $a $strain $of a <>arg2:something	51
 <>arg1:something, $a $parasite $infecting <>arg2:bats	52
 <>arg1:something $is $a <>arg2:[e]bats $parasite	52
 <>arg1:something, $a <>arg2:[e]bats $parasite	52
-<>arg1:something $is $a $parasitic worm in <>arg2:bats	52
-<>arg1:something, $a $parasitic worm in <>arg2:bats	52
+<>arg1:something $is $a $parasitic worm in <>arg2:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]bats	52
+<>arg1:something, $a $parasitic worm in <>arg2:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]bats	52
 <>arg1:something $is $a $parasitic worm $infecting <>arg2:bats	52
 <>arg1:something, $a $parasitic worm $infecting <>arg2:bats	52
 <>arg1:something $is $a $parasite $living in the lung of <>arg2:[e]bats	52
