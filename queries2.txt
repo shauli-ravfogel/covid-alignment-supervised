@@ -85,7 +85,7 @@ $[w]COVID-19 is $transmitted from <>arg1:someone $to <>arg2:someone	14
 $[e=ORGANISM|ORGANISM_SUBSTANCE|ORGANISM_SUBDIVISION]COVID-19 is $transmitted from <>arg1:someone $to <>arg2:someone	14
 $transmission $of something $from <>arg1:[e]bats $to <>arg2:someone	14
 <>arg1:SCD $[l]genotypes share high $risk for <>arg2:something	15
-<>arg1:[e=DNA|GENE_OR_GENE_PRODUCT]SCD share high $risk for <>arg2:something
+<>arg1:[e=DNA|GENE_OR_GENE_PRODUCT]SCD share high $risk for <>arg2:something	15
 <>arg1:SCD $[l]genotypes is a $risk factor for <>arg2:something	15
 <>arg1:[e=DNA|GENE_OR_GENE_PRODUCT]SCD is a $risk $factor for <>arg2:something	15
 <>arg1:SCD $[l]genotypes provide $protection against <>arg2:something	15
@@ -121,39 +121,40 @@ $transmission $of something $from <>arg1:[e]bats $to <>arg2:someone	14
 <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol is used $to $treat <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	19
 <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $is $treated with <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol	19
 <>arg1:something is $genetically $related to <>arg2:something	 20
-<>arg1:something :and <>arg2:something are $genetically $related	20
-<>arg1:something :and <>arg2:something share $a $common $origin	20
-<>arg1:something :and <>arg2:something share $a $common $fancestry	20
-<>arg1:something :and <>arg2:something share $a $common $ancestor	20
+<>arg1:something $and <>arg2:something are $genetically $related	20
+<>arg1:something $and <>arg2:something share $a $common $origin	20
+<>arg1:something $and <>arg2:something share $a $common $ancestry	20
+<>arg1:something $and <>arg2:something share $a $common $ancestry	20
 <>arg1:flu $virus interacts with the <>arg2:immune $system	21
-<>arg1:flu $infection influences the <>arg2:immune $system	21
-<>arg1:something $blood $levels are $[l]elevated in <>arg2:something	22
-<>arg1:something $blood $levels are $[l]reduced in <>arg2:something	22
-<>arg1:something $blood $levels are an $indication of <>arg2:something	22
-$high $blood <>arg1:something is an $indication of <>arg2:something	22
-$high $blood <>arg1:something is a $sign of <>arg2:something	22
-$low $blood <>arg1:something is an $indication of <>arg2:something	22
-low $blood <>arg1:something is a $sign of <>arg2:something	22
+<>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]flu interacts with the <>arg2:immune $system	21
+<>arg1:flu $[w=virus|infection]infection influences the <>arg2:immune $system	21
+<>arg1:flu $[w=infection|virus]infection, which influences the <>arg2:immune $system	21
+the <>arg2:immune $system is influenced from <>arg1:flu $infection	21
+the <>arg2:immune $system is influenced from <>arg1:flu $virus	21
+<>arg1:glocuse $blood $levels are $[l=reduce|elevate]elevated in <>arg2:something	22
+<>arg1:glocuse $blood $levels are an $indication of <>arg2:something	22
+$high $blood <>arg1:glocuse is a $sign of <>arg2:something	22
+low $blood <>arg1:glocuse is a $[l=sign|indication|symptom]sign of <>arg2:something	22
+low $blood <>arg1:glocuse, which is a $[l=sign|indication|symptom]sign of <>arg2:something	22
+low $blood <>arg1:glocuse, a $[l=sign|indication|symptom]sign of <>arg2:something	22
 the $symptoms of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma are <>arg2:[e]stroke	23
 <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $symptoms $such $as <>arg2:[e]stroke	23
-<>arg2:[e]stroke, $a $symptom $of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	23
-the $signs of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma are <>arg2:[e]stroke	23
-the $symptoms of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $include <>arg2:something	23
-the $signs of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $include <>arg2:something	23
-<>arg2:something is $a $symptom $of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	23
-<>arg2:something is $a $sign $of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	23
+<>arg2:[e]stroke, $a $[l=symptom|sign]symptom $of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	23
+the $[l=sign|symptom]signs of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma are <>arg2:[e]stroke	23
+the $[l=symptoms|sign]symptoms of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $include <>arg2:something	23
+<>arg2:something is $a $[w=symptom|sign]sign $of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	23
 <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma is $manifested by <>arg2:something	23
 people $infected $with <>arg1:something $[l]experience <>arg2:something	23
 people $infected $with <>arg1:something $[l]show $signs $of <>arg2:something	23
 the $clinical $manifestations of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma include <>arg2:something	23
 <>arg2:something is a $symptom of <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	23
-<>arg1:something $encourages the $production of <>arg2:something	24sorry. each line represents 
-<>arg1:something $triggers the $production of <>arg2:something	24
-<>arg1:something $triggers the body $to $produce <>arg2:something	24
-<>arg1:something can $improve $survival in <>arg2:something	25
-<>arg1:something can $increase $survival in <>arg2:something	25
-<>arg1:something can $decrease $death rates in <>arg2:something	25
-<>arg1:something can $prevent $death in <>arg2:something	25
+<>arg1:something $[l=encourage|trigger|inhibit]encourages the $production of <>arg2:something	24
+<>arg1:something, that $[l=encourage|trigger|inhibit]encourages the $production of <>arg2:something	24
+<>arg1:something $[l=trigger|encourage]triggers the body $to $produce <>arg2:something	24
+<>arg1:something can $[l=increase|improve|help]increase $survival in <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION|CANCER]something	25
+<>arg1:something can $[w=decrease|prevent|increase]decrease $death rates in <>arg2:[e=DISEASE|CANCER|PATHOLOGICAL_FORMATION]something	25
+$survival in <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION|CANCER]something is $improved by arg1:something	25
+<>arg1:something, that improved $survival in <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION|CANCER]something	25
 $treatment for <>arg1:something should $focus on <>arg2:something	26
 <>arg2:something is a $main $part in <>arg1:something $treatment	26
 <>arg1:something $causes $death $within <>arg2:something	27
@@ -232,10 +233,11 @@ the $enzyme <>arg1:A $[l]activates the $enzyme <>arg2:B	38
 the $enzyme <>arg1:A $[l]regulates the $enzyme <>arg2:B	38
 the $enzyme <>arg1:A $[l]inhibits the $enzyme <>arg2:B	38
 the $protein <>arg1:A $[l]interacts with the $protein <>arg2:B	38
-the $protein <>arg1:A $[l]activates the $protein <>arg2:B	38
-the $protein <>arg1:A $[l]regulates the $protein <>arg2:B	38
-the $protein <>arg1:A $[l]inhibits the $protein <>arg2:B	38
+the <>arg1:[e=PROTEIN]A $[l=interact]interacts with <>arg2:[e=PROTEIN]B	38
+the <>arg1:[e=PROTEIN]A $[l=influence|inhibit|activate|regulate]activate <>arg2:[e=PROTEIN]B	38
+the $protein <>arg1:A $[l=activate|regulate|inhibit]activates the $protein <>arg2:B	38
 $protein-protein $interaction between <>arg1:something :and <>arg2:something	38
+the $[l]interaction between <>arg1:[e=PROTEIN]A and <>arg2:[e=PROTEIN]B	38
 <>arg1:something $[l]inhibits the <>arg2:something $enzyme	39
 <>arg2:something $enzyme is $inhibited by <>arg1:something	39
 <>arg1:something $[l]inhibits the <>arg2:something $protein	39
@@ -318,11 +320,14 @@ $synthesis of <>arg1:something $from <>arg2:something	50
 <>arg1:it $is $a <>arg2:purine $derivative	50
 the $conversion of <>arg2:something $to <>arg1:something	50
 <>arg1:something, a <>arg2:purine $derivative	50
+<>arg1:something, a $derivative of <>arg2:purine	50
 <>arg1:something, $synthesized $from <>arg2:something	50
+<>arg1:[e=SIMPLE_CHEMICAL|CHEMICAL]something, which is $synthesized $from <>arg2:something	50
 <>arg2:purine $[l]derivative $such $as <>arg1:something	50
 the <>arg1:flu $[l]virus $[l]belongs $to $the $family $of <>arg2:something	51
 the <>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]flu $[l]belongs $to $the $family $of <>arg2:something	51
 the <>arg1:[e]COVID-19 $[l]belongs $to $the $family $of <>arg2:something	51
+$the $family $of <>arg2:something that $[l=contain|include]contains <>arg1:[e=ORGANISM|ORGANISM_SUBSTANCE|ORGANISM_SUBDIVISION]COVID-19	51
 the <>arg1:[e]MERS-CoV $[l]belongs $to $the $family $of <>arg2:something	51
 the <>arg1:flu $bacteria $[l]belongs $to $the $family $of <>arg2:something	51
 the <>arg1:flu $virus $is $a $part $of $the $family $of <>arg2:something	51
@@ -333,12 +338,14 @@ the <>arg1:flu $bacteria $is $a $part $of <>arg2:something $family	51
 the <>arg1:[e]COVID-19 $is $a $part $of a $family of <>arg2:something	51
 the <>arg1:[e]MERS-CoV $is $a $part $of a $family $of <>arg2:something	51
 the <>arg1:flu $bacteria $is $a $part $of a $family $of <>arg2:something	51
+<>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE|COVID-19]flu $is $a $part $of a $family $of <>arg2:something	51
 the <>arg1:flu $is $a $strain $of a <>arg2:something	51
 <>arg1:flu, $a $strain $of <>arg2:something	51
 <>arg1:something $is $a $parasite in <>arg2:bats	52
 <>arg1:something, $a $parasite in <>arg2:bats	52
 <>arg1:something $is $a $parasite $infecting <>arg2:bats	52
 <>arg1:something, $a $parasite $infecting <>arg2:bats	52
+<>arg1:something which is a $parasite $infecting <>arg2:bats	52
 <>arg1:something $is $a <>arg2:[e]bats $parasite	52
 <>arg1:something, $a <>arg2:[e]bats $parasite	52
 <>arg1:something $is $a $parasitic worm in <>arg2:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]bats	52
@@ -347,3 +354,4 @@ the <>arg1:flu $is $a $strain $of a <>arg2:something	51
 <>arg1:something, $a $parasitic worm $infecting <>arg2:bats	52
 <>arg1:something $is $a $parasite $living in the lung of <>arg2:[e]bats	52
 <>arg1:something, $a $parasite $living in the lung of <>arg2:[e]bats	52
+the <>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]pig $parasite arg2:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]Anatidae	52
