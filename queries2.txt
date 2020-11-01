@@ -13,6 +13,7 @@ people with <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma are $susceptible to 
 <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma :is $more $common in people with <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	4
 <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma :is $more $common in <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma patients	4
 <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma :is a common $comorbidity in people with <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	4
+the $comorbidity of <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma and <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	4
 <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma :is a common $comorbidity in <>arg1:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma patients	4
 <>arg1:asthmatic $patients are $prone $to <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma disease	4
 <>arg1:low blood oxygen levels are a $risk factor in <>arg2:[e]COVID-19 infection	5
@@ -79,7 +80,7 @@ The $mechanism $of $action of <>arg1:paracetamol is <>arg2:ligand activation	13
 <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $exerts its influnce $by <>arg2:ligand activation	13
 something can be $[l=transmit|cross]transmitted $from <>arg1:something $to <>arg2:something	14
 <>arg1:someone can $[l=transmit|cross]transmit something $to <>arg2:someone	14
-:[w]COVID-19 $crosses from <>arg1:someone $to <>arg2:someone	14
+$[e=COVID-18|ORGANISM|ORGANISM_SUBSTANCE]COVID-19 $[l]crosses from <>arg1:someone $to <>arg2:someone	14
 something, $[l]transmitted $to <>arg2:someone $from <>arg1:someone	14
 <>arg1:someone, which can $[l=transmit|cross]transmit something $to <>arg2:someone	14
 $[e=ORGANISM|ORGANISM_SUBSTANCE|COVID-19]COVID-19 is $transmitted from <>arg1:someone $to <>arg2:someone	14
@@ -105,13 +106,16 @@ $transmission $of something $from <>arg1:[e]bats $to <>arg2:someone	14
 <>arg1:white $cells $[l]provide $protection against <>arg2:flu $infection	16
 <>arg1:white $cells $[l]protect against <>arg2:flu $infection	16
 <>arg1:white $cells $[l]destroy the <>arg2:flu $virus	 16
-<>arg2:flu $virus is $[l=attack|destroy|incapacitate|neutralize]attacked by <>arg1:white $cells	16
+<>arg2:flu $virus is $[l=attack|destroy|incapacitate|neutralize]attacked by <>arg1:white cells	16
 <>arg2:flu $virus is $[l]destroyed by <>arg1:white $cells	16
 <>arg1:something is a $countermeasure against <>arg2:something	17
+<>arg1:something, a $countermeasure against <>arg2:something	17
+<>arg1:something, which is a $countermeasure against <>arg2:something	17
 <>arg1:something $is $useful $against <>arg2:something	17
 <>arg1:something $[l]contributes to the $spread of <>arg2:something infection	18
 <>arg1:something $[l]eases the $spread of <>arg2:something infection	18
 <>arg1:something $[l=prevent|help|facilitate|ease]prevents the $spread of <>arg2:something infection	18
+<>arg1:something, which $[l=prevent|help|facilitate|ease]prevents the $spread of <>arg2:something infection	18
 <>arg1:something will $[l=prevent|help|ease|facilitate]help <>arg2:something infection $to $spread	18
 <>arg1:something $[l=help|prevent|ease|facilitate]helps <>arg2:something infection $to $spread	18
 <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $treats <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	19
@@ -122,10 +126,10 @@ $transmission $of something $from <>arg1:[e]bats $to <>arg2:someone	14
 <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol is used $to $treat <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	19
 <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma $is $treated with <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol	19
 <>arg1:something is $genetically $related to <>arg2:something	 20
+<>arg1:something, which is $genetically $related to <>arg2:something	20
 <>arg1:something $and <>arg2:something are $genetically $related	20
-<>arg1:something $and <>arg2:something share $a $common $origin	20
-<>arg1:something $and <>arg2:something share $a $common $ancestry	20
-<>arg1:something $and <>arg2:something share $a $common $ancestry	20
+<>arg1:something $and <>arg2:something share $a $common $[w=origin|ancestry|ancestor]ancestry	20
+the $genetic $relation between <>arg1:something $and <>arg2:something	20
 <>arg1:flu $virus interacts with the <>arg2:immune $system	21
 <>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]flu interacts with the <>arg2:immune $system	21
 <>arg1:flu $[w=virus|infection]infection influences the <>arg2:immune $system	21
