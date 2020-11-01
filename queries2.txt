@@ -140,7 +140,7 @@ people $infected $with <>arg1:something $[l]experience <>arg2:something	23
 people $infected $with <>arg1:something $[l]show $signs $of <>arg2:something	23
 the $clinical $manifestations of <>arg1:[e]asthma include <>arg2:something	23
 <>arg2:something is a $symptom of <>arg1:[e]asthma	23
-<>arg1:something $encourages the $production of <>arg2:something	24
+<>arg1:something $encourages the $production of <>arg2:something	24sorry. each line represents 
 <>arg1:something $triggers the $production of <>arg2:something	24
 <>arg1:something $triggers the body $to $produce <>arg2:something	24
 <>arg1:something can $improve $survival in <>arg2:something	25
@@ -238,8 +238,8 @@ $outbreak $of <>arg2:[e]MERS-CoV $occurred $in <>arg1:[e]France	40
 <>arg2:[e]MERS-CoV $pandemic occurred $in <>arg1:[e]France	40
 <>arg2:[e]MERS-CoV $epidemic occurred $in <>arg1:[e]France	40
 $outbreak $of <>arg2:[e]asthma $occurred $in <>arg1:[e]France	40
-<>arg2:[e]asthma $pandemic :[lemma=start|begin|occur|report]began $in <>arg1:[e]France	40
-<>arg2:[e]asthma $epidemic :[lemma=start|begin|occur|report]began $in <>arg1:[e]France	40
+<>arg2:[e]asthma $pandemic $[lemma=start|begin|occur|report]began $in <>arg1:[e]France	40
+<>arg2:[e]asthma $epidemic $[lemma=start|begin|occur|report]began $in <>arg1:[e]France	40
 $outbreak of <>arg2:[e]asthma $in <>arg1:[e]France	40
 $outbreak $of <>arg2:[e]MERS-CoV $in <>arg1:[e]France	40
 <>arg1:something $[l=induce|trigger|cause|create]induces $[l=immunity|resistence]immunity $against <>arg2:something	41
@@ -249,30 +249,24 @@ patients treated with <>arg1:something $showed $[l=immunity|resistence]immunity 
 <>arg1:something $[l]is $a $prophylactic treatment for <>arg2:something	42
 <>arg1:something is a $[l]prophylactic $[w=against|for]for <>arg2:somethingg	42
 <>arg1:something is currently $under $research $for <>arg2:asthma	43
-<>arg1:something is an $experimental $[l=treatment|agent|medicine|drug|vaccine]treatment $for <>arg2:[e]asthmee	43
+<>arg1:something is an $experimental $[l=treatment|agent|medicine|drug|vaccine]treatment $for <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	43
 <>arg1:something is $investigated as a $[l=treatment|agent|medicine|drug|vaccine]treatment $for <>arg2:[e=DISEASE|PATHOLOGICAL_FORMATION]asthma	43
-<>arg1:something can be $detected $with <>arg2:microscope	44
-<>arg1:something can be $identified $with <>arg2:microscope	44
-<>arg1:something is $detected $with <>arg2:microscope	44
-<>arg1:something is $identified $with <>arg2:microscope	44
-<>arg1:something can be $detected $by <>arg2:microscope	44
-<>arg1:something can be $identified $by <>arg2:microscope	44
-<>arg2:HPLC $was $performed $to $identify <>arg1:something	44
-<>arg2:HPLC $was $performed $to $detect <>arg1:something	44
-<>arg1:something is $detected $by <>arg2:microscope	44
-<>arg1:something is $identified $by <>arg2:microscope	44
-<>arg2:microscope was $used to $detect <>arg1:something	44
+<>arg1:something can be $[l=detect|identify]identified $[w=with|by]with <>arg2:microscope	44
+<>arg1:something is $[l=detect|identify]identified $[w=with|by]with <>arg2:microscope	44
+<>arg2:HPLC was $[l]performed $to $[w=identify|detect]identify <>arg1:something	44
 <>arg2:microscope was $used to $screen $for <>arg1:something	44
-<>arg1:something was $discovered $by <>arg2:someone	45
-<>arg1:something was first $described $by <>arg2:someone	45
-<>arg2:someone $first $described <>arg1:something	 45
+<>arg1:something was $[w=described|reported|observed]described $by <>arg2:someone	45
+<>arg1:something was first $[w=described|reported|observed] $by <>arg2:someone	45
+<>arg2:someone $first $[w=described|reported|observed]described <>arg1:something	 45
 <>arg1:something was $named $by <>arg2:someone	45
-<>arg2:[e]John $discovered <>arg1:something	45
+<>arg2:someone $discovered <>arg1:something	45
 <>arg1:flu $virus $[l]persists for <>arg2:10 days	46
+<>arg1:[e=DISEASE|ORGANISM]COVID-19 $[l]persists for <>arg2:10 days	46
 <>arg1:[e]COVID-19 $[l]persists for <>arg2:10 days	46
 <>arg1:[e]COVID-19's $persistence is <>arg2:10 days	46
 a study shows $persistence of <>arg1:flu $virus for <>arg2:10 days	46
 a study shows $persistence of <>arg1:[e]COVID-19 for <>arg2:10 days	46
+a study shows $persistence of <>arg1:[e=DISEASE|ORGANISM]COVID-19 for <>arg2:10 days	46
 <>arg1:[e]COVID-19 $persists $on <>arg2:surfaces	47
 <>arg1:[e]COVID-19 $can $survive $on <>arg2:surfaces	47
 <>arg1:[e]COVID-19 $[l]remains $viable $on <>arg2:surfaces	47
@@ -280,6 +274,7 @@ a study shows $persistence of <>arg1:[e]COVID-19 for <>arg2:10 days	46
 <>arg1:[e]COVID-19 $[l]remains $infectious $on <>arg2:surfaces	47
 <>arg1:flu $virus $persists $on <>arg2:surfaces	47
 <>arg1:flu $virus $can $survive $on <>arg2:surfaces	47
+<>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]flu $can $survive $on <>arg2:surfaces
 <>arg1:flu $virus $[l]remains $viable $on <>arg2:surfaces	47
 <>arg1:flu $virus $[l]can $last $on <>arg2:surfaces	47
 <>arg1:flu $virus $[l]remains $infectious $on <>arg2:surfaces	47
@@ -290,13 +285,13 @@ a study shows $persistence of <>arg1:[e]COVID-19 for <>arg2:10 days	46
 <>arg1:[e]COVID-19 $[l]remains $infectious $on surfaces for <>arg2:10 days	48
 <>arg1:flu $virus $persists $on surfaces for <>arg2:10 days	 48
 <>arg1:flu $virus $can $survive $on surfaces for <>arg2:10 days	48
+<>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]flu $can $survive $on surfaces for <>arg2:10 days	48
 <>arg1:flu $virus $[l]remains $viable $on surfaces for <>arg2:10 days	48
 <>arg1:flu $virus $[l]can $last $on surfaces for <>arg2:10 days	 48
 <>arg1:flu $virus $[l]remains $infectious $on surfaces for <>arg2:10 days	48
-<>arg1:some <>arg2:[e]COVID-19 patients are $asymptomatic	49
-<>arg1:some <>arg2:[e]COVID-19 patients $show $no $symptoms	49
-<>arg1:some <>arg2:[e]COVID-19 patients $have $no $symptoms	49
-<>arg1:some <>arg2:[e]COVID-19 patients $[l]do $not $show $symptoms	49
+in <>arg1:10% of the cases, <>arg2:[e]COVID-19 patients $show $no $symptoms	49
+in <>arg1:10% of the cases, <>arg2:[e]COVID-19 patients $have $no $symptoms	49
+in <>arg1:10% of the cases, <>arg2:[e]COVID-19 patients $[l]do $not $show $symptoms	49
 in <>arg1:10% of <>arg2:flu $infections the patients are $asymptomatic	49
 in <>arg1:10% of <>arg2:flu $infections the patients $show $no $symptoms	49
 in <>arg1:10% of <>arg2:flu $infections the patients $have $no $symptoms	49
@@ -309,7 +304,7 @@ the $proportion of $asymptomatic <>arg2:[e]COVID-19 cases is <>arg1:10%	49
 <>arg1:something $is $synthesized $from <>arg2:something	50
 <>arg1:something $is $a $derivative $of <>arg2:something	50
 <>arg1:something $is $a $by $product $of <>arg2:something $synthesis	50
-<>arg1:something $is $a $byproduct $of <>arg2:something $synthesis	50
+<>arg1:something $is $a $[l]by-product $of <>arg2:something $synthesis	50
 <>arg1:something is $manufactured $from <>arg2:something	50
 $formation of <>arg1:something $from <>arg2:something	50
 $synthesis of <>arg1:something $from <>arg2:something	50
@@ -317,13 +312,15 @@ $synthesis of <>arg1:something $from <>arg2:something	50
 the $conversion of <>arg2:something $to <>arg1:something	50
 <>arg1:something, a <>arg2:purine $derivative	50
 <>arg1:something, $synthesized $from <>arg2:something	50
-<>arg2:purine $derivative $such $as <>arg1:something	50
+<>arg2:purine $[l]derivative $such $as <>arg1:something	50
 the <>arg1:flu $[l]virus $[l]belongs $to $the $family $of <>arg2:something	51
+the <>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]flu $[l]belongs $to $the $family $of <>arg2:something	51
 the <>arg1:[e]COVID-19 $[l]belongs $to $the $family $of <>arg2:something	51
 the <>arg1:[e]MERS-CoV $[l]belongs $to $the $family $of <>arg2:something	51
 the <>arg1:flu $bacteria $[l]belongs $to $the $family $of <>arg2:something	51
 the <>arg1:flu $virus $is $a $part $of $the $family $of <>arg2:something	51
 the <>arg1:[e]COVID-19 $is $a $part $of <>arg2:something $family	51
+the <>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]COVID-19 $is $a $part $of <>arg2:something $family	51
 the <>arg1:[e]MERS-CoV $is $a $part $of <>arg2:something $family	51
 the <>arg1:flu $bacteria $is $a $part $of <>arg2:something $family	51
 the <>arg1:[e]COVID-19 $is $a $part $of a $family of <>arg2:something	51
