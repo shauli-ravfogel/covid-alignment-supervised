@@ -326,8 +326,7 @@ the $proportion of $asymptomatic <>arg2:[e]COVID-19 cases is <>arg1:10%	49
 <>arg1:something $is $a $by $product $of <>arg2:something $synthesis	50
 <>arg1:something $is $a $[l]by-product $of <>arg2:something $synthesis	50
 <>arg1:something is $manufactured $from <>arg2:something	50
-$formation of <>arg1:something $from <>arg2:something	50
-$synthesis of <>arg1:something $from <>arg2:something	50
+$[w=synthesis|generation]synthesis of <>arg1:something $from <>arg2:something	50
 <>arg1:it $is $a <>arg2:purine $derivative	50
 the $conversion of <>arg2:something $to <>arg1:something	50
 <>arg1:something, a <>arg2:purine $derivative	50
@@ -371,6 +370,7 @@ the <>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]pig $parasite arg
 <>arg1:[e=ORGAN]Liver $transplant is a $[l=treatment|measure|operation]treatment for <>arg2:[e=DISEASE]flu	53
 <>arg1:[e=DISEASE]flu may $involve the <>arg2:[e=ORGAN]liver	54
 <>arg1:[e=DISEASE]flu with <>arg2:[e=ORGAN]liver $involvement	54
+<>arg2:[e=ORGAN]liver $involvement in <>arg1:[e=DISEASE]flu	54
 <>arg1:[e=DISEASE]flu, which may $[l]involve the <>arg2:[e=ORGAN]liver	54
 <>arg2:[e=ORGAN]liver may be affected from <>arg1:[e=DISEASE]flu	54
 <>arg2:[e=ORGAN]liver, which may be $[l=affect|influence|damage]affected from <>arg1:[e=DISEASE]flu	54
