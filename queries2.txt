@@ -77,7 +77,7 @@ $transmission $of <>arg1:something $from <>arg2:[e=ORGANISM|ORGANISM_SUBSTANCE]b
 <>arg2:[e=ORGANISM|ORGANISM_SUBSTANCE]bats $[l]shed <>arg1:[e=ORGANISM|ORGANISM_SUBSTANCE|ORGANISM_SUBDIVISION]COVID-19	11
 <>arg1:flu $virus $[l=evolve|emerge|diverge]evolved $from <>arg2:something	12
 <>arg1:[e=ORGANISM|ORGANISM_SUBSTANCE]flu $[l=evolve|emerge|diverge]evolved $from <>arg2:something	12
-the $evolution $of <>arg1:[e=ORGANISM|ORGANISM_SUBSTANCE]flu $from <>arg1:[e=ORGANISM|ORGANISM_SUBSTANCE]something	12
+the $evolution $of <>arg1:[e=ORGANISM|ORGANISM_SUBSTANCE]flu $from <>arg2:[e=ORGANISM|ORGANISM_SUBSTANCE]something	12
 The $mechanism $of $action of <>arg1:paracetamol is <>arg2:activation of glocuse	13
 <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $affects <>arg2:ligand activation	13
 <>arg1:[e=CHEMICAL|SIMPLE_CHEMICAL]paracetamol $works $by <>arg2:activation of glocuse	13
@@ -275,7 +275,7 @@ patients treated with <>arg1:something $showed $[l=immunity|resistence]immunity 
 <>arg2:HPLC was $[l]performed $to $[w=identify|detect]identify <>arg1:something	44
 <>arg2:microscope was $used to $screen $for <>arg1:something	44
 <>arg1:something was $[w=described|reported|observed]described $by <>arg2:someone	45
-<>arg1:something was first $[w=described|reported|observed] $by <>arg2:someone	45
+<>arg1:something was first $[w=described|reported|observed]described $by <>arg2:someone	45
 <>arg2:someone $first $[w=described|reported|observed]described <>arg1:something	 45
 <>arg1:something was $named $by <>arg2:someone	45
 <>arg2:someone $discovered <>arg1:something	45
@@ -377,3 +377,9 @@ the <>arg1:[e=ORGANISM|ORGANISM_SUBDIVISION|ORGANISM_SUBSTANCE]pig $parasite arg
 <>arg1:[e=CELLULAR_COMPONENT]mitochondria is $responsible for <>arg2:energy production	55
 <>arg1:[e=CELLULAR_COMPONENT]mitochondria, which is $responsible for <>arg2:energy production	55
 <>arg2:energy $[l=produce|create|generate]produced by the <>arg1:[e=CELLULAR_COMPONENT]mitochondria	55
+<>arg1:[e=CELL_LINE]something is used to $[l=simulate|study|develop|measure|propagate|investigate|detect|isolate]study <>arg2:[e=DISEASE]something	56
+<>arg1:[e=CELL_LINE]something, which is used to $[l=simulate|study|develop|measure|propagate|investigate|detect|isolate]study <>arg2:[e=DISEASE]something	56
+<>arg1:[e=DISEASE|ORGANISM|ORGANISM_SUBSTANCE]something was $[l=perform|simulate|show|use|observe|measure|examine|test|establish|determine|assess|make|diagnose|utilize|isolate]studied using <>arg2:[e=CELL_LINE]something	56
+<>arg1:[e=DISEASE|ORGANISM|ORGANISM_SUBSTANCE]something, which was $[l=perform|simulate|show|use|observe|measure|examine|test|establish|determine|assess|make|diagnose|utilize|isolate]studied using <>arg2:[e=CELL_LINE]something	56
+<>arg1:[e=DISEASE|ORGANISM|ORGANISM_SUBSTANCE]something linked to <>arg2:[e=CELL_LINE]something	56
+the $[w=examination|transduction|simulation|test|testing|determination|observation|evaluation]examination of <>arg1:[e=DISEASE|ORGANISM|ORGANISM_SUBSTANCE]something $[w=with|using|by]with <>arg2:[e=CELL_LINE]something	56
