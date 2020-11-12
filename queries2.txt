@@ -279,13 +279,13 @@ patients treated with <E|U+C>arg1:something $showed $[l=immunity|resistence]immu
 <E|U+C>arg2:someone $first $[w=described|reported|observed]described <E|U+C>arg1:something	 45
 <E|U+C>arg1:something was $named $by <E|U+C>arg2:someone	45
 <E|U+C>arg2:someone $discovered <E|U+C>arg1:something	45
-<E|U+C>arg1:flu $virus $[l]persists for <E|U+C>arg2:10 days	46
-<E|U+C>arg1:[e=DISEASE|ORGANISM]COVID-19 $[l]persists for <E|U+C>arg2:10 days	46
-<E|U+C>arg1:[e]COVID-19 $[l]persists for <E|U+C>arg2:10 days	46
-<E|U+C>arg1:[e]COVID-19's $persistence is <E|U+C>arg2:10 days	46
-a study shows $persistence of <E|U+C>arg1:flu $virus for <E|U+C>arg2:10 days	46
-a study shows $persistence of <E|U+C>arg1:[e]COVID-19 for <E|U+C>arg2:10 days	46
-a study shows $persistence of <E|U+C>arg1:[e=DISEASE|ORGANISM]COVID-19 for <E|U+C>arg2:10 days	46
+<E|U+C>arg1:flu $virus $[l]persists for <E|U+C>arg2:10 $[l=day|week|month]days	46
+<E|U+C>arg1:[e=DISEASE|ORGANISM]COVID-19 $[l]persists for <E|U+C>arg2:10 $[l=day|week|month]days	46
+<E|U+C>arg1:[e]COVID-19 $[l]persists for <E|U+C>arg2:10 $[l=day|week|month]days	46
+<E|U+C>arg1:[e]COVID-19's $persistence is <E|U+C>arg2:10 $[l=day|week|month]days	46
+a study shows $persistence of <E|U+C>arg1:flu $virus $for <E|U+C>arg2:10 $[l=day|week|month]days	46
+a study shows $persistence of <E|U+C>arg1:[e]COVID-19 $for <E|U+C>arg2:10 $[l=day|week|month]days	46
+a study shows $persistence of <E|U+C>arg1:[e=DISEASE|ORGANISM]COVID-19 $for <E|U+C>arg2:10 $[l=day|week|month]days	46
 <E|U+C>arg1:[e]COVID-19 $persists $on <E|U+C>arg2:surfaces	47
 <E|U+C>arg1:[e]COVID-19 $can $survive $on <E|U+C>arg2:surfaces	47
 <E|U+C>arg1:[e]COVID-19 $[l]remains $viable $on <E|U+C>arg2:surfaces	47
