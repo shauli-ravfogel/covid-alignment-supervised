@@ -1,0 +1,239 @@
+SENT	QUERY-ID	RELATION-DESCRIPTION	IS-RELEVANT	IS-TOP-10
+The median duration between the onset of symptom and initiating therapy was five days ( IQR , 3 - 6 ) .	28	disease-duration	0	1
+The mean duration of <<HFOV>> was [[3.2 days ( 12 h to 10 days )]] .	28	disease-duration	1	1
+The median time interval between ICI initiation and signs/symptoms was 109 days .	28	disease-duration	0	1
+The median duration of the observation episodes was 28 days ( interquartile range , 28 - 35 days ) .	28	disease-duration	0	1
+The median duration of <<cough>> was [[7 days ( range : 2 - 30 days )]] .	28	disease-duration	1	1
+The median time from onset of illness to diagnosis was 2 d ( range : 0 - 42 d ) .	28	disease-duration	0	1
+The median duration from illness onset to CT scan was 4 days , ranging from 1 to 14 days .	28	disease-duration	0	1
+The median duration from illness onset to CT scan was 4 days , ranging from 1 to 14 days .	28	disease-duration	0	1
+The median duration from first symptoms to serological testing in these 27 patients was 16 days ( IQR 9 - 20 days ) .	28	disease-duration	0	1
+The median duration from the onset of symptoms to diagnosis was 5 d ( IQR : 2 - 7 ) .	28	disease-duration	0	1
+The mean duration of ,<<symptoms of viral respiratory infection>> was [[6.8±4.2 ( range : 2 to 31 ) days]] .	28	disease-duration	1	0
+The median number of doses per patient was 10 ( 5 - 35 ) and the median duration of treatment was 27 days ( 5 - 150 ) .	28	disease-duration	0	0
+The median duration of treatement was 2 days ( interquartile range , ( 1 , 3 ) ) .	28	disease-duration	0	0
+The median duration of <<fever and cough>> were [[2 days ( 0 - 10 ) and 3 days ( 0 - 18 )]] , respectively .	28	disease-duration	1	0
+The median duration of symptoms before admission was 4 days ( interquartile range 1 - 8 ) .	28	disease-duration	0	0
+The median time from illness onset to admission was four days ( IQR , 2 - 6 days ) .	28	disease-duration	0	0
+The median duration from onset of symptoms to admission was 5 days .	28	disease-duration	0	0
+The median duration of <<fever>> was [[only two days]] , and total symptom duration was four days .	28	disease-duration	1	0
+The median time to the onset of the infection was 95 days ( range 0 to 700 ) .	28	disease-duration	0	0
+For severe patients , the median time from onset of symptoms to severe illness was 11 days ( IQR , 7 - 13 ) .	28	disease-duration	0	0
+However , it is currently unclear if <<there is a delayed viral clearance>> in [[the more vulnerable population , such as those who are older , have immunodeficiencies , or are receiving immunosuppressive therapies]] .	57	lacunas	1	1	
+However , the <<systemic landscape of the immune responses>> in [[patients with COVID-19]] is unclear .	57	lacunas	1	1
+It is unknown if <<antibiotics>> modify [[the gene expression profile of these persistent chlamydiae in a clinically relevant manner]] .	57	lacunas	1	1
+However , it remains unanswered whether <<multiple concomitant respiratory viral infections>> are associated with [[more severe bronchiolitis]] .	57	lacunas	1	1
+It is still unknown whether <<virus neutralization or other antibody-mediated mechanisms>> are correlated with [[protection]] .	57	lacunas	1	1
+Although patients with cancer may be immunocompromised because of the disease and/or cancer treatment , it is unclear whether the <<success rate of COVID-19 treatment>> is decreased because of this [[underlying immunosuppression]] .	57	lacunas	1	1
+It is yet unknown whether <<individuals that are under treatment with sitagliptin>> are less susceptible to [[MERS-CoV infection]] or whether they do not produce as severe symptoms of the disease .	57	lacunas	1	1
+It remains unclear whether <<TD>> can be due to [[changes in the normal flora without the involvement of enteric pathogens]] .	57	lacunas	1	1
+It remains unclear whether <<liver injury>> is caused by [[the virus itself]] or reflects a severe inflammatory response with liver damage .	57	lacunas	1	1
+It is unclear whether <<production of systemic IFN-I>> is generally attributable to [[pDC]] irrespective of the nature of the infecting pathogen .	57	lacunas	1	1
+It remains unknown whether <<children with COVID-19>> have [[less severe illness than adults]] due to a combination of a lower incidence of infection , lower disease severity , or both .	57	lacunas	1	1
+The specific factors that determine whether <<bacterial invasion of the sinus>> will occur during [[VRS]] are unknown .	57	lacunas	1	0
+4 It is still unknown whether <<individuals infected with SARS-CoV-2 who subsequently recover>> will be protected , either fully or partially , from [[future infection with SARS-CoV-2]] or for how long the protective immunity may last .	57	lacunas	1	0
+It is largely unknown whether the <<occurrence of COVID-19 in patients with rheumatic immune diseases>> has [[some specific manifestations]] , or makes them more prone to rapidly progress into severe COVID-19 .	57	lacunas	1	0
+However , the mechanisms by which <<progesterone>> influences [[outcomes in sick foals]] remain unclear .	57	lacunas	1	0
+It is unclear whether <<innate immunity>> contributes to [[the reduced viral replication]] and regulates immune activation .	57	lacunas	1	0
+However , COVID-19 does not follow the bimodal age distribution that is typically seen in viral pneumonias due to relative immunocompromise [ 2 ] , and it is unclear if <<young children>> are spared from [[most COVID-19 symptoms]] due to cross-protective immunity to other coronaviruses or from additional differences in physiology related to age .	57	lacunas	1	0
+It is also unclear whether <<the cytokine release syndrome>> that can occur in response to SARS-CoV-2 infection and contribute to acute respiratory distress syndrome , is more likely or less likely to occur in [[patients who are on immunosuppressive therapy known to block transcriptional elements related to cytokine release]] .	57	lacunas	1	0
+Whether <<mixing of viral components during co-infection>> alters [[pathogenic outcomes or viral replication]] is not known .	57	lacunas	1	0
+It is unclear how <<changes induced by acute respiratory tract virus infection>> can impact [[the development of asthma]] well after the infection has resolved .	57	lacunas	1	0
+However , the <<dynamic of anti-SARS-CoV-2 antibody upon virus infection>> and their relation to [[disease status and outcome]] remains to be determined .	57	lacunas	1	0
+This suggests that perhaps <<pregnancy>> should not be considered an independent risk factor for [[severe or critical COVID-19 disease]] .	36	conditions without risk	1	1
+This suggests that <<HRV/EVs>> are associated with [[severe disease requiring hospitalization]] even in previously healthy children .	36	conditions without risk	0	1
+It is clear that <<age>> is a significant risk factor for [[death in patients infected with COVID-19]] .	36	conditions without risk	0	1
+However , <<neutropenia per se>> is not the primary risk factor for [[viral infection]] .	36	conditions without risk	1	1
+Even though prognosis is associated with lung injury , [[digestive symptoms]] seem significantly more frequent in <<patients presenting with severe COVID-19 infection>> .	36	conditions without risk	0	1
+<<Colonization>> is not a risk factor for [[subsequent disease in nonepidemic situations]] .	36	conditions without risk	1	1
+It is interesting that <<BSI occurence>> is not associated with [[the use of ATG only]] but higher doses of ATG causes increased BSI rates .	36	conditions without risk	1	1
+The occurrence of <<dual infection>> is a risk factor of [[greater disease severity]] .	36	conditions without risk	0	1
+In addition , <<viral load in children with single RSV infections>> is not associated with [[disease severity]] .	36	conditions without risk	1	1
+The available data suggest that the [[prevalence of AKI]] among patients with <<COVID-19>> is low .	36	conditions without risk	1	1
+This suggests that the deleterious effect of maternal viral infections on the fetus may not be restricted to pregnant women with influenza .	36	conditions without risk	0	1
+Similarly , <<patients receiving PPIs>> have [[an increased gastric bacterial load and increased contamination after TEP]] but not an increased risk of infectious complications .	36	conditions without risk	1	0
+Of note , the incidence of [[haemorrhagic complications]] in <<patients with COVID-19>> , even those with severe coagulopathy , appear to be low .	36	conditions without risk	1	0
+This finding suggests that when <<bacterial coinfection>> complicates [[viral infection]] , it can lead to poorer outcomes .	36	conditions without risk	1	0
+The effect on mortality reduction is probably driven by the decrease of ETI rate , since <<endotracheal intubation in this subpopulation>> is associated with a [[disproportionate high mortality rate]] due to immunodeficiency and risk of tubeassociated fatal infections .	36	conditions without risk	1	0
+Interestingly , [[the risk of asthma]] is not linked to <<viral infections per se>> ; rather , the clinical response to infection seems to be most important .	36	conditions without risk	1	0
+This suggests that <<drug withdrawal>> may be a risk factor for [[disease progression]] , if the disease has not been stable over a long period .	36	conditions without risk	1	0
+Thus , at least in Brazil , <<dengue virus>> is an infrequent etiology in [[patients with suspected meningitis or meningoencephalitis]] , In patients dying of infection due to this virus , however , approximately half have evidence of CNS invasion .	36	conditions without risk	1	0
+Although [[acute liver failure]] has not been reported as a direct consequence of <<severe COVID-19>> , the extent of abnormal liver tests seems to be associated with disease severity and worse outcomes .	36	conditions without risk	1	0
+We know that <<patients with a medical history of chronic lung , heart , or neuromuscular diseases>> are at [[higher risk of complications and failure of HFC or CPAP]] .	36	conditions without risk	1	0
+We believe that <<vitamin D deficiency>> might be one of the important risk factors for [[COVID-19 complications and higher mortality]] .	36	conditions without risk	1	0
+In contrast , in <<children with AOM>> , the probability of [[bacterial infection]] is very high , thereby enhancing the likelihood of a benefit from antibiotics .	36	conditions without risk	1	0
+The fifth serotype , <<Sin Nombre virus ( SNV )>> , literally " nameless virus " in Spanish , was isolated from [[the meadow vole ( Microtus pennsylvanicus )]] .	34	isolation place	1	1
+<<TioPV>> was isolated from [[pteropid bat urine]] on Tioman Island in 2001 during the search for the reservoir host of Nipah virus 20 .	34	isolation place	1	1
+<<A novel paramyxovirus ( cavian parainfluenza virus 3 )>> was isolated in 2002 from [[a colony of guinea pigs]] ( Simmons et al. , 2002 ) .	34	isolation place	1	1
+23 What was called <<" rabies-like virus " , then " European bat lyssavirus " >>, was isolated from [[a serotine bat ( Eptesicus serotinus )]] in Denmark .	34	isolation place	1	1
+In 2004 , <<an atypical pestivirus , D32/00_HoBi>> , distantly related to BVDV-1 and BVDV-2 was isolated from [[a batch of fetal calf serum]] collected in Brazil ( 3 ) .	34	isolation place	1	1
+<<The wild-type strain 5804>> was initially isolated from [[a CDV infected domestic dog in dog PBMCs]] .	34	isolation place	1	1
+<<A novel orthobunyavirus , tentatively named Wolkberg virus ( WBV )>> , was isolated from [[the same species of bat flies]] in a similar geographic region [ 182 ] .	34	isolation place	1	1
+<<The prototype isolate F99 - 1414 of Cal99>> was originally recovered in 1999 from [[Central California broiler chickens experiencing high levels of condemnations at slaughter due to airsacculitis]] [ 23 , 26 ] .	34	isolation place	1	1
+<<Toscana virus ( TOSV )>> was isolated from [[a bat 's brain]] in 1988 , while simultaneously TOSV was isolated from sandflies in the laboratory [ 19 ] .	34	isolation place	1	1
+<<The first strain that belonged to norovirus GII.4>> was reported in [[outbreaks of gastroenteritis in a nursing home in Maryland]] in the winter of 1987À88 ( Green et al. , 2002 ) .	34	isolation place	1	1
+<<The virulent B. bronchiseptica swine isolate KM22>> was originally isolated in Hungary in 1993 from [[a swine herd with atrophic rhinitis]] .	34	isolation place	1	1
+<<A closely related virus>> was isolated from [[a woolly monkey ( Lagothrix lagotricha ) with multiple fibrosarcomas]] , called first <<simian sarcoma-associated virus ( SSAV )>> , and then later <<woolly monkey virus ( WMV )>> [ 23 , 24 ] .	34	isolation place	1	0
+<<A mouse-adapted strain>> was isolated after 15 passages through [[the lungs of BALB/c mice ( MA15 strain )]] and , unlike the parental Urbani strain of virus , intranasal inoculation with this virus results in signs of respiratory disease with substantial mortality [ 22 ] .	34	isolation place	1	0
+<<This prototype BCV strain>> was originally isolated in [[bovine fetal kidney cells from diarrhea fluid of calf]] [ 18 ] .	34	isolation place	1	0
+<<The highly pathogenic Nipah virus ( NiV )>> was isolated in 1999 after [[an outbreak of fatal encephalitis among pig farmers]] in Malaysia and Singapore ( Chua , 2003 ) .	34	isolation place	1	0
+<<Aichivirus A ( A846/88 strain )>> was first isolated in 1989 from [[a patient with nonbacterial acute gastroenteritis]] in an outbreak in Japan .	34	isolation place	1	0
+<<A new human coronavirus , NL63 ( HCoV-NL63 )>> , was discovered first from [[a 7-month-old Dutch child with bronchiolitis and conjunctivitis]] by van der Hoek et al. [ 2004 ] .	34	isolation place	1	0
+In 2004 , <<another alphacoronavirus , HCoV-NL63>> , which was isolated from [[a 7-month old child suffering from bronchiolitis and conjunctivitis]] , was reported in the Netherlands ( Vabret et al. , 2005 ) .	34	isolation place	1	0
+<<Nipah virus Bangladesh>> was isolated from [[a throat swab from a human patient]] in 2004 ( GenBank accession number AY988601 ) ; the virus was propagated on Vero-E6 cells and passaged a total of 2 times .	34	isolation place	1	0
+<<8 Paramushir virus ( PMRV ) , prototypical strain , LEIV-2268 , a virus of the SAKV group>> , was originally isolated from [[Ixodes signatus ticks]] collected in 1972 in a colony of cormorants ( Phalacrocorax pelagicus ) on Paramushir Island ( in the Kuril Islands ) ( 50 23 0 N , 155 41 0 E ; Figure 8 .19 ) .	34	isolation place	1	0
+<<The NB strain>> , originally identified in [[diarrheic feces from a dairy calf]] in Nebraska , was recently characterized and shown to be a novel enteropathogenic bovine calicivirus , genetically most similar to lagoviruses and sapoviruses ( Smiley et al. , 2002 ) .	34	isolation place	1	0
+In 2008 , <<a novel rat theilovirus ( RTV )>> was isolated from [[the feces of asymptomatic rats]] .	34	isolation place	1	0
+Between <<29 % and 82 %>> of [[Zika infections]] are asymptomatic according to the U.S. Centers for Disease Control and Prevention ( CDC ) .	49	percentage asymptomatic	1	1
+In fact , the Centers for Disease Control and Prevention ( CDC ) estimate that there are 45 million herpes simplex virus type 2 (HSV-2)seropositive persons in the USA .	49	percentage asymptomatic	0	1
+CDC has estimated that <<5–10 %>> of [[all cases of pertussis]] are recognized and reported .	49	percentage asymptomatic	0	1
+Most children are infected during the first year of life , and almost all are infected before the age of 2 years ( CDC 2014 ) .	49	percentage asymptomatic	0	1
+There are currently over 170 countries infected with COVID-19 , and all 50 states in the United States ( US ) have confirmed cases according to the Centers for Disease Control and Prevention ( CDC ) .	49	percentage asymptomatic	0	1
+The Centers for Disease Control and Prevention estimates that 900,000 clinic visits among children result from norovirus infection in developed countries and up to 200,000 deaths annually in children less than 5 years of age in developing countries ( Patel et al. , 2009 ; Scallan et al. , 2011 ) .	49	percentage asymptomatic	0	1
+According to the center for disease control ( CDC ) , global mortality for the novel virus is 3.4 % , with around 80 % of deaths occurring among adults 65 years and older with the highest percentage of severe outcomes occurring in people over 85 years of age .	49	percentage asymptomatic	0	1
+It is estimated that about <<80 %>> of [[ZIKV infections]] are asymptomatic .	49	percentage asymptomatic	1	1
+For toxoplasmosis caused by the infection of Toxoplasma gondii , approximately 14 % of the individuals in the United States are seropositive to it by the age of 40 years ( Saheb , 2018 ) .	49	percentage asymptomatic	0	1
+According to OMS , data between 10 % and 20 % of the world population is infected each year by the influenza virus .	49	percentage asymptomatic	0	1
+Norovirus infection usually occurs as epidemic gastroenteritis outbreaks and affects 10 - 21 million people in all age groups in the U.S. each year ( CDC , http://www.cdc.gov/norovirus/trends-out breaks.html ) .	49	percentage asymptomatic	0	1
+According to the Centers for Disease Control and Prevention , at least half a million children develop tuberculosis annually worldwide .	49	percentage asymptomatic	0	0
+WHO estimates that , globally , 500,000 people with severe dengue require hospitalization each year and that 2.5 % of these infections are lethal .	49	percentage asymptomatic	0	0
+Among VHFs , yellow fever and Argentine haemorrhagic fever are the only two infections for which vaccines have been approved ( http://www.cdc.gov/ncidod/dvrd/spb/mnpages/dispages/vhf.htm ) .	49	percentage asymptomatic	0	0
+According to the World Health Organization , 84 countries confirmed ZIKV infection .	49	percentage asymptomatic	0	0
+According to the World Health Organization ( WHO ) , almost three-fourths deaths in infants occur due to RSV-associated pneumonia in Southeast Asia and sub-Saharan Africa .	49	percentage asymptomatic	0	0
+Estimates of disease burden in USA suggest that caliciviruses are responsible annually for 23 million illnesses and 50 000 hospitalizations .	49	percentage asymptomatic	0	0
+The WHO estimates that at least 50 million dengue infections occur worldwide each year .	49	percentage asymptomatic	0	0
+Centers for Disease Control and Prevention ( CDC ) surveillance data suggest that RSV infections are responsible for about 10,000 deaths annually in elderly patients living in the community .	49	percentage asymptomatic	0	0
+Data from the CDC indicate that more than 15 % of new STIs in women of child-bearing age occur during pregnancy .	49	percentage asymptomatic	0	0
+Noroviruses account for about 58 % of foodborne human illnesses causing about 21 million cases of gastroenteritis and 800 deaths annually in the United States alone ( http://www.cdc.gov/ norovirus/about/overview.html ) .	49	percentage asymptomatic	0	0
+Adults may average two ARIs per year , while young children may experience five to seven viral respiratory infections per year ( Encyclopedia of Public Health , 2009 ) .	49	percentage asymptomatic	0	0
+[[A fever , cough and fatigue]] are the main symptoms of <<COVID-19>> , and are sometimes accompanied by nasal obstruction , a runny nose , sore throat and diarrhea [ 10 ] .	23	symptoms	1	1
+The most common symptoms associated with <<adenovirus infection>> are [[cough , fever , sore throat , and rhinorrhea]] .	23	symptoms	1	1
+The major symptoms of <<COVID-19>> include [[dry coughing , high fever with difficulties in breathing]] [ 16 ] .	23	symptoms	1	1
+The main symptoms of <<COVID-19>> are [[fever , dry cough , fatigue , sputum production , shortness of breath , and sore throat]] [ 6 ] .	23	symptoms	1	1
+The most common symptoms at onset of <<COVID-19 illness>> are [[fever , cough , and fatigue , while other symptoms include sputum production , headache , haemoptysis , diarrhoea , dyspnoea , and lymphopenia]] [ 26 ] .	23	symptoms	1	1
+The most common clinical manifestation of <<viral gastroenteritis>> is [[diarrhea , followed by vomiting and nausea]] .	23	symptoms	1	1
+Although the spectrum of clinical manifestations of <<hMPV infection>> is not completely defi ned as yet , the most frequent manifestations include [[cough , coryza and pharyngitis]] .	23	symptoms	1	1
+Major initial symptoms include fever , most of which are high fevers that occur within several days and are not alleviated by routine anti-infective drugs , as well as cough , headache and muscle pain or fatigue [ 16 ] .	23	symptoms	0	1
+The most common manifestations of <<COVID-19>> consist of [[fever , cough , and fatigue or myalgia , sputum production , and headache]] [ 4 , 7 , 8 ] .	23	symptoms	1	1
+The most common symptoms of <<RhV infection>> include [[rhinorrhea and nasal congestion]] , with fevers and myalgias being relatively uncommon .	23	symptoms	1	1
+Most of the patients with <<SARS-CoV and MERS-CoV>> report clinical symptoms of [[fever with rigor , dry cough , dyspnea , general myalgia , shortness of breath , pneumonia , and even acute respiratory failure]] .	23	symptoms	1	0
+[[Gastrointestinal symptoms]] are very common in <<CVID>> , especially persistent diarrhea that manifests in more than 50 % of cases .	23	symptoms	1	0
+The usual manifestations of <<C. difficile disease>> in older children and adults include [[watery diarrhea , abdominal pain and tenderness , nausea , vomiting , and low-grade fever]] .	23	symptoms	1	0
+[[Fever , fatigue and dry cough]] are considered to be the most common manifestations of <<COVID-19>> [ 7 ] [ 8 ] [ 9 ] .	23	symptoms	1	0
+The respiratory symptoms related to <<infection>> are generally [[mild and include upper respiratory manifestations including rhinitis , pharyngitis , and tonsillitis]] .	23	symptoms	1	0
+Clinical symptoms mostly described in conjunction with <<an HBoV infection>> are [[wheezing , fever , bronchiolitis and pneumonia]] [ 28 , 49 , 36 , 50 ] .	23	symptoms	1	0
+During the course of <<measles>> , respiratory symptoms are the most prominent , such as [[rhinitis , pharyngitis , bronchitis , and pneumonia]] .	23	symptoms	1	0
+Main symptoms of <<infection>> were [[fever and cough in around 80 % of patients , followed by dyspnea , fatigue and myalgias , headache , sore throat and gastrointestinal symptoms]] [ 13 ] .	23	symptoms	1	0
+The few most common symptoms which were previously reported in observational studies are fever , cough , sore throat , diarrhea , shortness of breath , and nasal congestion ( 11 ) .	23	symptoms	0	0
+The main clinical symptoms include fever , cough , shortness of breath , myalgia , and 10 - 20 % of patients develop acute respiratory distress syndrome after 8 - 14 days of the illness ( 3 ) .	23	symptoms	0	0
+PD-L1 expression is a favorable biomarker for the prognosis of breast cancer ; therefore , <<immune checkpoint blockade agents>> may be offering the opportunity to be the future treatment for [[breast cancer]] .	43	potential treatment	1	1
+The <<Ang1 targeted strategy>> may have a potential of [[antiangiogenesis therapy for gastric cancer]] .	43	potential treatment	1	1
+Therefore , <<FK228>> might be a novel therapeutic option to target [[EGFR-vIII GBM]] .	43	potential treatment	1	1
+<<The combination of OVT with ICB or CAR-T cell therapies>> can have synergistic effects , which might play an important role in [[clinical cancer treatment]] in the future .	43	potential treatment	1	1
+<<Inflammatory suppression>> may be a novel treatment for [[PDAC patients]] .	43	potential treatment	1	1
+Furthermore , PD-1 expression could be one of biomarkers suggesting poor outcome in patients with metastatic CCRCC receiving molecular targeted therapies .	43	potential treatment	0	1
+<<MALT1 proteolytic activity inhibition>> may be a potential therapeutic strategy to combat [[osteosarcoma]] in the future .	43	potential treatment	1	1
+<<Anti-PD-1 antibodies>> might be a promising treatment strategy for [[patients with SMARCA4-deficient NSCLC]] .	43	potential treatment	1	1
+<<PARP-1>> could represent a novel treatment target in [[TGCTs]] and the assessment of PARP-1 expression in tumor samples may lead to the consideration of TGCTs patients for PARP inhibitor therapy .	43	potential treatment	1	1
+Our findings suggest that <<co-treatment with HDAC inhibitors>> may synergize the therapeutic potency of lapatinib and reduce the relapse in [[breast cancer]] patients .	43	potential treatment	1	1
+<<IL-6>> represents an important inflammatory cytokine involved in the pathogenesis of [[AODS]] , and it may be a promising target , especially with the development of anti-human IL-6 receptor monoclonal antibody tocilizumab .	43	potential treatment	1	1
+<<PCA>> may be a safe candidate for future therapy of [[hepatocellular carcinoma]] based on epigenomics .	43	potential treatment	1	0	
+In addition , <<gene expression profiling studies>> may lead to the identification of novel targets for the development of new therapeutic agents for [[NHL]] .	43	potential treatment	1	0
+Many side effects have been observed following radiation therapy with chemotherapy ; hence , exploring <<new treatment modalities>> for [[NPC]] is an important future direction .	43	potential treatment	1	0
+It is likely that <<COX-2>> may be an effective therapeutic target in [[prostate cancer treatment]] .	43	potential treatment	1	0
+IL-6 is the key molecule of CRS , so <<IL-6R antagonist tocilizumab>> may be an important drug to [[save patients ' lives]] .	43	potential treatment	1	0
+Silencing FGFR4 and inhibiting ligand-receptor binding signifi cantly decrease ccRCC growth both in vitro and in vivo , suggesting that <<targeting ccRCC cells with high levels of FGFR4 protein expression>> is a new therapeutic modality for [[this disease]] and will improve survival of it .	43	potential treatment	1	0
+Thus ,<<miR-155 inhibitors>> may be a used as a therapeutic for [[women with PE]] in the future .	43	potential treatment	1	0
+<<The inhibitors of TMPRSS2 and MSPL>> may be potential candidates for treatment of [[PEDV]] .	43	potential treatment	1	0
+Therefore , <<the development of more target-specific therapy , with minimum toxicity>> , is warranted to extend disease-free survival and improve the quality of life of [[cancer patients]] .	43	potential treatment	1	0
+<<Drugs targeting DEGs , including adenosine-5'-diphosphate that acts on HSP90B1>> , may be developed as a novel therapeutic agent to treat [[patients with ALI induced by sepsis]] .	43	potential treatment	1	0
+The conjectural role of <<CXCR4>> at the [[tumor development]] may become a critical therapeutic target .	43	potential treatment	1	0
+Recent experiments have shown that <<the S-protein vaccine>> can trigger antibodies to resist [[virus binding , fusion , and neutralization of SARS-CoV infection]] .	63	treatments and diseases against which they provide immunity	1	1
+Research has shown that <<recombinant nucleocapsid protein ( rN ) from PUUV , TOPV , ANDV , and DOBV>> could induce a cross-protective immune response to [[PUUV]] .	63	treatments and diseases against which they provide immunity	1	1
+Experimentally , a live STM vaccine delivering recombinant E. coli , K88ab , K88c , Fed A , and Fed F has been shown to be highly immunogenic .	63	treatments and diseases against which they provide immunity	0	1
+Recently , we have demonstrated that <<an MVA-based vaccine>> could protect mice and macaques against [[infection with highly pathogenic influenza viruses of the H5N1 subtype]] .	63	treatments and diseases against which they provide immunity	1	1
+Our immunogenicity and protective efficacy studies demonstrated that <<Ad vector-based vaccines>> provide complete protection against [[challenge with homologous and antigenically distinct strains of influenza viruses]] in a mouse model [ 11 ] .	63	treatments and diseases against which they provide immunity	1	1
+It has been shown that <<this vaccine candidate>> provides protection against [[challenge with virulent SARS-CoV]].	63	treatments and diseases against which they provide immunity	1	1
+Recently , <<recombinant viruses expressing WNV antigens>> have been shown to induce strong immune responses and protection against [[WNV challenge]] in animals .	63	treatments and diseases against which they provide immunity	1	1
+Reports have demonstrated that <<vaccination with drifted variants of avian H5 HA protein>> elicits a broadened antibody response that is protective against [[challenge with homologous or drifted live H5 influenza virus]] [ 31 ] .	63	treatments and diseases against which they provide immunity	1	1
+Their results provide evidence that <<broadly neutralizing antibodies to HCV>> protect against [[heterologous viral infection]] and suggest that a prophylactic vaccine against HCV may be achievable [ 71 , 72 ] .	63	treatments and diseases against which they provide immunity	1	1
+Recent work shows that <<modified vaccinia virus Ankara expressing the S protein of MERS-CoV>> elicits high titers of [[S-specific]] neutralizing antibodies in mice [ 22 ] .	63	treatments and diseases against which they provide immunity	1	1
+Functional analysis of antibody production regarding <<PCV13>> showed that this vaccine could provide enhanced protection against [[serotypes included in the vaccine and certain serotypes such as 6C]] when compared with PCV7 [ 18 ] .	63	treatments and diseases against which they provide immunity	1	1
+Data reveal that immunization with <<S-FLU-expressing H1 HA ( H1 S-FLU ) DNA>> reduces the viral load in lungs after [[aerosolized challenge with the closely matched pdmH1N1 virus strain]] [ 142 ] .	63	treatments and diseases against which they provide immunity	1	0
+Several <<vaccine candidates>> based on he full-length S protein of SARS-CoV have shown high immunogenicity in inducing neutralizing antibody responses and protection against [[SARS-CoV challenge]] .	63	treatments and diseases against which they provide immunity	1	0
+It had previously been shown that , indeed , <<a CD4 + T cell response to an epitope contained in the vaccine>> correlates with protection from [[infection and disease]] [ 31 ] .	63	treatments and diseases against which they provide immunity	1	0
+A successful <<in fl uenza vaccine>> is able to elicit neutralizing antibodies that block HA and sialic acid binding and consequently prevent the spread of [[the virus]] in the population .	63	treatments and diseases against which they provide immunity	1	0
+Indeed , studies conducted in a range of experimental animals , including transgenic mice expressing human ACE2 , ferrets and non-human primates , confirm that such <<vaccines>> confer protective immunity against [[SARS-CoV challenge infections]] .	63	treatments and diseases against which they provide immunity	1	0
+Thus , <<induction of the cellular immune response>> is essential in vaccines against [[FIP virus]] ( FIPV ) infection .	63	treatments and diseases against which they provide immunity	1	0
+Similarly , an <<attenuated vesicular stomatitis virus vector that encodes the SARS-CoV S protein>> may be used to induce [[neutralizing antibody responses]] ( Kapadia et al. , 2005 ) .	63	treatments and diseases against which they provide immunity	1	0
+Based on previous findings , it has been hypothesized that <<the consensus sM2 fragment>> , when fused with <<the potent mucosal adjuvant CTA1>> , may induce broad protective immunity against [[divergent subtypes of influenza virus]] .	63	treatments and diseases against which they provide immunity	1	0
+<<Attenuated sporozoites>> provide an effective mechanism to prime immune responses , and ultimately induce protection against [[genetically homologous or heterologous parasite challenge]] [ 7 ] .	63	treatments and diseases against which they provide immunity	1	0
+Humoral and cellular immune responses elicited against a foreign MVA-encoded antigen are higher than those triggered with the vaccinia Western Reverse strain , in part due to the higher levels of expression of the foreign antigen by MVA ( Ramirez et al. , 2000 ) .	63	treatments and diseases against which they provide immunity	0	0
+Further studies have shown that IFN type I suppression is a major strategy of PRRSV to modulate host antiviral defense .	63	treatments and diseases against which they provide immunity	0	0
+<<Viruses from the respiratory tract ( coronavirus , coxsackievirus , influenzavirus , SARS virus , and rhinovirus )>> can persist on [[surfaces]] for a several days .	46	persistence-place	1	1
+<<Human coronaviruses>> can remain infectious on [[inanimate surfaces]] for up to 9 days .	46	persistence-place	1	1
+Hand hygiene is critically important for preventing nosocomial transmission of <<COVID-19>> , particularly with the demonstration of persistence of virus on [[surfaces]] from several hours up to 3 days depending on the surface material .	46	persistence-place	1	1
+Transmission through infected surfaces is likely ; <<human coronaviruses>> persist on [[metals , glass , or plastics]] for more than 9 days .	46	persistence-place	1	1
+<<Human parainfluenza viruses>> are unstable in the environment ( surviving a few hours on environmental [[surfaces]] ) , and are readily inactivated with soap and water .	46	persistence-place	1	1
+Infected patients may shed severe acute respiratory syndrome coronavirus-2 ( SARS-CoV-2 ) particles into their environments via body secretions .	46	persistence-place	0	1
+The transmission of <<COVID-19>> is thought to occur through [[respiratory droplets]] , and current CDC guidelines recommend the use of N95 masks for health care providers managing the care of patients infected with SARS-CoV-2 or persons under investigation ( PUI ) for COVID-19 .	46	persistence-place	1	1
+Studies show that <<SARS-CoV-2>> stays for more than 9 days and be resistant , like other coronaviruses such as SARS and Middle East Respiratory Syndrome ( MERS ) , can live on [[inanimate surfaces such as metals , glass , and plastic]] at room temperature .	46	persistence-place	1	1
+<<Human coronaviruses>> can remain infectious on [[inanimate surfaces]] at room temperature for up to 9 days .	46	persistence-place	1	1
+Some diseases , such as <<SARS and smallpox>> , can be spread by hand-to-mouth transfer of infectious particles because of direct contact with [[patients]] .	46	persistence-place	1	1
+[[secretions or contaminated materials ( ie . , contact ) and airborne droplet nuclei]] ; these patients require both airborne and contact precautions .	46	persistence-place	0	1
+[[Airborne transmission]] of <<viral particles>> may require further filtration of inhaled air via a powered air-purifying respirator ( PAPR ) equipped with a high-efficiency particulate air ( HEPA ) filter .	46	persistence-place	1	1
+Most viruses from the respiratory tract , such as <<corona , coxsackie , influenza , SARS or rhino virus>> , can persist on [[surfaces]] for a few days .	46	persistence-place	1	0
+Although some pathogens are thought to primarily spread via [[large respiratory droplets]] ( eg , <<influenza virus , MERS-CoV>> ) , added precautions , including use of a respirator and eye protection , are needed during aerosol-generating procedures .	46	persistence-place	1	0
+N95 respirators that tightly seal around the mouth and nose are typically worn by healthcare providers caring for patients with infectious conditions that transmit via [[aerosolized]] <<pathogens>> .	46	persistence-place	1	0
+When a patient coughs or sneezes , [[aerial droplets]] containing <<virus>> may be inhaled by susceptible individuals .	46	persistence-place	1	0
+The especially contagious <<SARS-CoV-2 virus>> potentially remains viable for several days on [[surfaces]] after nebulization ( 7 ) , such as may occur in contaminated CT rooms .	46	persistence-place	1	0
+Handwashing is a key component of guidance to reduce transmission of the SARS-CoV-2 virus , responsible for the COVID-19 pandemic .	46	persistence-place	0	0
+Human coronaviruses can be efficiently inactivated within 1 min using surface disinfection procedures with 62 - 71 % ethanol , 0.5 % hydrogen peroxide or 0.1 % sodium hypochlorite [ 85 ] .	46	persistence-place	0	0
+<<Enteric viruses>> may originate from human wastewater and can undergo rapid transport through [[aquatic environments]] with minimal decay .	46	persistence-place	1	0
+Prevention of <<SARS-CoV-2 infection>> must consider its spread through [[air and the size of droplets]] ( < 5 µm or > 5 µm ) .	46	persistence-place	1	0
+Interestingly , <<human coronaviruses>> are able to survive on [[steel , metal , wood , aluminum , paper , glass , plastic , ceramic , disposable gowns , and surgical gloves]] for 2 - 9 days .	46	persistence-place	1	0
+<<Bovine coronavirus>> can remain infectious for up to 3 days in [[soil , feces , and bedding materials]] .	46	persistence-place	1	0
+Consequently , use of the <<NTD>> as a mucosal vaccine material is a plausible vaccination strategy to protect against [[PEDV infection]] .	42	pretreatments	1	1
+Based on these data , it appears that prophylactic treatment with <<TcB antibodies>> can be an effective countermeasure against [[ZIKV infection]] .	42	pretreatments	1	1
+Moreover , <<MVA>> is considered to be a prime candidate vaccine for safer protection against [[orthopoxvirus infections]] .	42	pretreatments	1	1
+These data clearly indicate that <<a double inactivated whole virus vaccine>> is a promising candidate for an effective human vaccine .	42	pretreatments	0	1
+This observation indicates that the [[PTC virus]] <<vaccine>> may have potential therapeutic effects in addition to its prophylactic potency .	42	pretreatments	1	1
+The data generated in this animal model show that administration of <<a human monoclonal antibody>> might offer a feasible and effective prophylaxis for the control of [[human SARS coronavirus infection]] .	42	pretreatments	1	1
+The clinical studies conducted on these different vaccine candidates highlights the importance of humoral immunity in controlling CHIKV infection .	42	pretreatments	0	1
+These results indicate that <<TUDCA>> is a highly effective prophylactic treatment against [[IAV-induced disease]] .	42	pretreatments	1	1
+These suggest that <<antiserum treatment>> is clinically useful for post-exposure prophylaxis against [[SFTSV infection]] .	42	pretreatments	1	1
+This study clearly suggests that this vaccine elicits both humoral and cell-mediated immune responses in mice , providing its immunogenic potential .	42	pretreatments	0	1
+These data indicate that <<passive transfer of antibodies>> can be an effective prophylactic therapy against [[HRV infection]] .	42	pretreatments	1	1
+These findings show that <<DNA vaccines based on the spike glycoprotein>> may lead to effective immune responses with protective immunity in animal models .	42	pretreatments	0	0
+However , these results together suggest that <<the immunotherapy with Leish-110f ®>> can be an important adjunct to [[anti-CanL]] therapeutic protocol that uses lower doses of Glucantime ® .	42	pretreatments	1	0
+These findings pointed at possible importance of antibodies in the protection against [[invasive diseases]] and suggested that addition of <<IV polyclonal immunoglobulins ( IVIG )>> to the treatment may be useful as an adjunctive therapy .	42	pretreatments	1	0
+These studies suggest that <<rAAV vectors>> are promising vaccine and immunoprophylaxis vectors .	42	pretreatments	0	0
+Our results suggest that <<antiserum treatment>> may be clinically useful for post-exposure prophylaxis against [[SFTSV]] infection .	42	pretreatments	1	0
+The additional administration of <<recombinant L. casei expressing HPV16 E6>> may enhance its therapeutic efficacy .	42	pretreatments	0	0
+<<The MV vector>> thus appears appropriate for developing a safe and cost-effective [[CHIKV]] vaccine to be used in the case of CHIKV emergence .	42	pretreatments	1	0
+These clinical studies support that plant cell-derived influenza VLP vaccines would be safe and immunogenic .	42	pretreatments	0	0
+These data suggest the ZYYR-2014 could provide better protection against homologous IBV challenge .	42	pretreatments	0	0
+This finding further implicates the potential usefulness of these drugs as antiviral agents to treat acute PED infection .	42	pretreatments	0	0
+Given that the mice exhibited high survival rates when ribavirin was administered , it is considered to have protection and transmission delay effects on FMDV , an RNA virus .	42	pretreatments	0	0
+<<Chronic disseminated disease>> may take the form of lymphadenopathy , painful oropharyngeal ulceration or destruction of tissues such as the [[adrenal glands]] .	53	involved organs	1	1
+<<NTM>> may cause a wide spectrum of [[pulmonary and extrapulmonary]] disease , but most frequently cause fibronodular bronchiectasis or cavitation .	53	involved organs	1	1
+Generalized [[hepatomegaly]] can be caused by a number of conditions including <<neoplasia , vacuolar hepatopathies , congestion , or amyloidosis>> .	53	involved organs	1	1
+<<Sinus disease>> may be a part of multisystem or systemic conditions that frequently also involve the [[nasal passages , eyes , upper and lower airways , and even the gastrointestinal tract]] .	53	involved organs	1	1
+Patients with <<CNS blastomycosis>> may present with acute or chronic meningitis or mass lesions of [[the brain or spinal cord]] including multiple or single abscesses or granulomas .	53	involved organs	1	1
+Less commonly , <<a range of viral infections other than mumps>> may be complicated by inflammatory lesions in the [[testis ]].	53	involved organs	1	1
+<<Proliferative GN>> may be associated with either Q fever [[endocarditis , rhabdomyolysis]] , or a chronic infection elsewhere in the body .	53	involved organs	1	1
+<<Polycystic hepatic cysts>> may be associated with cystic lesions in other organs , most notably the [[kidneys]] .	53	involved organs	1	1
+<<A wide variety of infections>> may present with [[pulmonary]] symptoms .	53	involved organs	1	1
+<<A number of granulomatous diseases>> may involve [[the nose and sinuses]] as part of the generalized disease , or nasal symptoms may be the first manifestation .	53	involved organs	1	1
+<<Bacterial conjunctivitis>> may be an extension of infection from [[the upper respiratory system]] or secondary to an opportunistic infection by the normal conjunctival flora .	53	involved organs	1	1
+<<Necrotic lesions associated with hyphae>> can be found in [[the brain]] in some cases , often with a limited inflammatory component .	53	involved organs	1	0
+<<Inflammation>> of [[the pancreatic parenchyma]] may occur as a specific entity ( usually in the dog ) or as a component of a variety of systemic or multifocal diseases or conditions that impact this organ .	53	involved organs	1	0
+Secondary tonsillitis may be associated with systemic disease or local predisposing anatomic or pathologic factors .	53	involved organs	0	0
+<<Some parasites>> invade [[the alveolar parenchyma]] , resulting in a pattern of miliary small nodules or pneumonitis .	53	involved organs	1	0
+<<Lymphoreticular lesions>> also are typified by necrosis , which can affect [[thymus , lymph nodes , and spleen]] .	53	involved organs	1	0
+153 Patients may have a variety of signs and symptoms , depending on the organs involved and the size of the fungal inoculum .	53	involved organs	0	0
+A number of tumors related to viral infection may also occur late , with warts ( verruca vulgaris ) the most frequent infection .	53	involved organs	0	0
+Although <<eosinophilic enterocolitis>> is confined to [[the GI tract]] , hypereosinophilic syndrome may involve the liver , spleen , lymph nodes , bone marrow , lung , pancreas , adrenal glands , or skin .	53	involved organs	1	0
+URTIs are common but rarely life threatening , whereas LRTIs can lead to more severe illnesses , such as pneumonia and bronchiolitis .	53	involved organs	0	0
+<<Tissue-invasive disease>> may manifest as [[pneumonitis , gastrointestinal disease , or hepatitis]] .	53	involved organs	1	0
+In severe infection , nonsuppurative inflammation can occur in many tissues .	53	involved organs	0	0
